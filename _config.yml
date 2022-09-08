@@ -5,7 +5,7 @@ color_scheme: dark
 plugins:
 - jekyll-remote-theme
 
-exclude: ["assets/", "README.md"]
+exclude: ["README.md"]
 
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub"

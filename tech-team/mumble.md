@@ -11,6 +11,7 @@ nav_order: 2
 ## Table of Contents
 {: .no_toc }
 
+TOC
 {:toc}
 
 Mumble is available on both iOS and Android for free, you must be connected to the GBC network (not GBC Public) for it to work.
