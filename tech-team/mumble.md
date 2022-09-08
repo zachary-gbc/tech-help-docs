@@ -16,7 +16,7 @@ nav_order: 2
 Mumble is available on both iOS and Android for free, you must be connected to the GBC network (not GBC Public) for it to work.
 
 ## Download App:
-![iOS](/assets/images/mumble-ios.png) ![Android](/assets/images/mumble-android.png)
+![iOS](../assets/images/mumble-ios.png) ![Android](../../assets/images/mumble-android.png)
 
 ## Connect to GBC WiFi
 ![GBC WiFi](/assets/images/gbc-wifi.jpeg)
