@@ -1,7 +1,6 @@
-title: GBC Tech Help Docs
+title: GBC Tech Docs
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
-logo: "/assets/images/gbc-logo.png"
 
 plugins:
 - jekyll-remote-theme
