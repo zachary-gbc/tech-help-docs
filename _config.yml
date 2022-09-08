@@ -5,3 +5,6 @@ logo: "/assets/images/gbc-logo.png"
 
 plugins:
 - jekyll-remote-theme
+
+exclude:
+  - readme.md
