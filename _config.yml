@@ -1,6 +1,7 @@
 title: GBC Tech Docs
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
+markdown: kramdown
 
 plugins:
 - jekyll-remote-theme
