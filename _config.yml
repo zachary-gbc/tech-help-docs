@@ -5,5 +5,4 @@ color_scheme: dark
 plugins:
 - jekyll-remote-theme
 
-exclude:
-  - readme.md
+exclude: ["assets/", "README.md"]
