@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tech Team
+title: Worship Center Tech Team
 has_children: true
 nav_order: 4
 ---
