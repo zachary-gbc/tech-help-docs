@@ -49,7 +49,7 @@ See Picture Below
 1. Click “User 1” and use center section for iMac, iPad, handhelds, and headset
 1. Wireless microphones are located in video booth on chargers
 
-![Wing Screenshot](../assets/images/worship-center/basic-guide/sound-1.png){:height="300px" width="300px"}
+![Wing Screenshot](../assets/images/worship-center/basic-guide/sound-1.jpeg){:height="300px" width="300px"}
 
 ## Recording or In House Streaming
 See picture below for video booth soundboard setup
@@ -112,4 +112,4 @@ See picture below for video booth soundboard setup
    - Do Not Click Stream
 1. Make sure that the video on the computer screen is correct
 
-![Recording Screenshot](../assets/images/worship-center/basic-guide/recording-1.png){:height="300px" width="300px"}
+![Recording Screenshot](../assets/images/worship-center/basic-guide/recording-1.jpeg){:height="300px" width="300px"}
