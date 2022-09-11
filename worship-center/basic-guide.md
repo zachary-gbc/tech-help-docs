@@ -60,6 +60,7 @@ See picture below for video booth soundboard setup
 1. Press Left Knob to load
 1. Press Right Arrow to confirm
 1. Set far left and master faders to 0
+
 ![Midas Screenshot](../assets/images/worship-center/basic-guide/sound-2.png){:height="300px" width="300px"}
 
 # Lights
@@ -80,6 +81,7 @@ See picture below for video booth soundboard setup
    - Stage for lights on stage
 1. There may be other buttons on this page to control various stage or effect lights
    - Test before service to determine what you will need/want
+
 ![MyDMX Screenshot](../assets/images/worship-center/basic-guide/lights-1.jpeg){:height="300px" width="300px"}
 
 # Video
@@ -90,12 +92,14 @@ See picture below for video booth soundboard setup
 1. Click File > Restore
 1. Choose No Wireless
 1. Click restore
+
 ![Video Restore 1](../assets/images/worship-center/basic-guide/video-1.png){:height="300px" width="300px"}
 ![Video Restore 2](../assets/images/worship-center/basic-guide/video-2.png){:height="300px" width="300px"}
 
 1. Press 3rd button on middle row of director controller (see 3rd picture below)
    - The one below number 3
 1. Click “DSK 1 CUT” if not already Red
+
 ![Video Director Controller](../assets/images/worship-center/basic-guide/video-3.png){:height="300px" width="300px"}
 
 ## Setting Camera
@@ -103,4 +107,9 @@ See picture below for video booth soundboard setup
 1. Use zoom/focus on lens if needed to get good shot
 
 # Recording
-## Setup:
+## Starting Recording
+1. Prior to the start of the service click the record button (it should turn green)
+   - Do Not Click Stream
+1. Make sure that the video on the computer screen is correct
+
+![Recording Screenshot](../assets/images/worship-center/basic-guide/recording-1.png){:height="300px" width="300px"}
