@@ -35,7 +35,7 @@ This page is meant to help as a reminder to basic startup, setup, and running of
 1. If you need to clear the screen or stop anything you can click clear all on the right
    - Clear all is the red vertical bar next to the output display
 
-![Media Screenshot](../assets/images/worship-center/basic-guide/media-2.png){:height="400px" width="400px"}
+![Media Screenshot](../assets/images/worship-center/basic-guide/media-2.png){:height="600px" width="600px"}
 
 # Sound
 ## Load Default
@@ -49,7 +49,7 @@ See Picture Below
 1. Click “User 1” and use center section for iMac, iPad, handhelds, and headset
 1. Wireless microphones are located in video booth on chargers
 
-![Wing Screenshot](../assets/images/worship-center/basic-guide/sound-1.jpeg){:height="400px" width="400px"}
+![Wing Screenshot](../assets/images/worship-center/basic-guide/sound-1.jpeg){:height="500px" width="500px"}
 
 ## Recording or In House Streaming
 See picture below for video booth soundboard setup
@@ -61,7 +61,7 @@ See picture below for video booth soundboard setup
 1. Press Right Arrow to confirm
 1. Set far left and master faders to 0
 
-![Midas Screenshot](../assets/images/worship-center/basic-guide/sound-2.png){:height="400px" width="400px"}
+![Midas Screenshot](../assets/images/worship-center/basic-guide/sound-2.png){:height="500px" width="500px"}
 
 # Lights
 ## Open Program & Load Show
@@ -93,14 +93,14 @@ See picture below for video booth soundboard setup
 1. Choose No Wireless
 1. Click restore
 
-![Video Restore 1](../assets/images/worship-center/basic-guide/video-1.png){:height="400px" width="400px"}
-![Video Restore 2](../assets/images/worship-center/basic-guide/video-2.png){:height="400px" width="400px"}
+![Video Restore 1](../assets/images/worship-center/basic-guide/video-1.png){:height="500px" width="500px"}
+![Video Restore 2](../assets/images/worship-center/basic-guide/video-2.png){:height="500px" width="500px"}
 
 1. Press 3rd button on middle row of director controller (see 3rd picture below)
    - The one below number 3
 1. Click “DSK 1 CUT” if not already Red
 
-![Video Director Controller](../assets/images/worship-center/basic-guide/video-3.png){:height="400px" width="400px"}
+![Video Director Controller](../assets/images/worship-center/basic-guide/video-3.png){:height="600px" width="600px"}
 
 ## Setting Camera
 1. Aim camera (next to sound booth) at podium (or wherever teaching is happening)
@@ -112,4 +112,4 @@ See picture below for video booth soundboard setup
    - Do Not Click Stream
 1. Make sure that the video on the computer screen is correct
 
-![Recording Screenshot](../assets/images/worship-center/basic-guide/recording-1.jpeg){:height="400px" width="400px"}
+![Recording Screenshot](../assets/images/worship-center/basic-guide/recording-1.jpeg){:height="500px" width="500px"}
