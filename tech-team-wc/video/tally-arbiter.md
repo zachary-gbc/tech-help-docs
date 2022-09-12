@@ -21,8 +21,8 @@ You should only need to use this if the Tally lights are not working correctly.
 
 Click on the green/red TA on the top bar to open.
 
-![Opening Tally Arbiter](../assets/images/tech-team-wc/video/ta-1.png){:height="100px" width="300px"}
-![Opening Tally Arbiter Settings](../assets/images/tech-team-wc/video/ta-2.png){:height="400px" width="400px"}
+![Opening Tally Arbiter](../../assets/images/tech-team-wc/video/ta-1.png){:height="100px" width="300px"}
+![Opening Tally Arbiter Settings](../../assets/images/tech-team-wc/video/ta-2.png){:height="400px" width="400px"}
 
 Login using username admin and password 12345.
 
@@ -33,12 +33,12 @@ The listeners are listed below and what camera they are attached to. The number 
 
 Click the dropdown to assign it to a new device.
 
-![Tally Arbiter Settings](../assets/images/tech-team-wc/video/ta-3.png){:height="400px" width="400px"}
+![Tally Arbiter Settings](../../assets/images/tech-team-wc/video/ta-3.png){:height="400px" width="400px"}
 
 # How to Turn Off Tally Arbiter
 Click the green/red TA on the top of the screen and choose Quit, then click Yes
 
-![Quit Tally Arbiter](../assets/images/tech-team-wc/video/ta-4.png){:height="400px" width="400px"}
+![Quit Tally Arbiter](../../assets/images/tech-team-wc/video/ta-4.png){:height="400px" width="400px"}
 
 # Troubleshooting
 If you are still unable to get the Tally Lights to work then it may be the network causing the issue. This usually means the access points need rebooted.
