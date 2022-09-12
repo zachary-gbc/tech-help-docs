@@ -60,9 +60,9 @@ grand_parent: Tech Team - Worship Center
 | 49 | | |
 | 50 | | |
 | 51 | | |
-| 52 | Wing Local 2 | |
-| 53 | Wing Local 3 | |
-| 54 | Wing Local 4 | |
+| 52 | Wing Local 2 | Click |
+| 53 | Wing Local 3 | iMac Left |
+| 54 | Wing Local 4 | iMac Right |
 | 55 | Wing Local 5 | Backtrack Left |
 | 56 | Wing Local 6 | Backtrack Right |
 | 57 | Wing Local 7 | Backtrack Extra #7 |
