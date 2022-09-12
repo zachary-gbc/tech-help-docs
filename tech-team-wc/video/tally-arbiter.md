@@ -21,11 +21,11 @@ You should only need to use this if the Tally lights are not working correctly.
 
 Click on the green/red TA on the top bar to open.
 
-![Opening Tally Arbiter](/tech-help-docs/assets/images/tech-team-wc/video/ta-1.png){:height="100px" width="400px"}
+![Opening Tally Arbiter](/tech-help-docs/assets/images/tech-team-wc/video/ta-1.png){:height="100px" width="600px"}
 
-![Opening Tally Arbiter Settings](/tech-help-docs/assets/images/tech-team-wc/video/ta-2.png){:height="500px" width="500px"}
+![Opening Tally Arbiter Settings](/tech-help-docs/assets/images/tech-team-wc/video/ta-2.png){:height="600px" width="600px"}
 
-Login using username admin and password 12345.
+Login using username *admin* and password *12345*.
 
 # Settings
 Once settings are open click Listeners on the top, that is the only tab you should need to edit.
@@ -34,7 +34,7 @@ The listeners are listed below and what camera they are attached to. The number 
 
 Click the dropdown to assign it to a new device.
 
-![Tally Arbiter Settings](/tech-help-docs/assets/images/tech-team-wc/video/ta-3.png){:height="500px" width="500px"}
+![Tally Arbiter Settings](/tech-help-docs/assets/images/tech-team-wc/video/ta-3.png){:height="600px" width="600px"}
 
 # How to Turn Off Tally Arbiter
 Click the green/red TA on the top of the screen and choose Quit, then click Yes
