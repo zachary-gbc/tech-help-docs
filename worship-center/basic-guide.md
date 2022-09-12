@@ -51,18 +51,6 @@ See Picture Below
 
 ![Wing Screenshot](../assets/images/worship-center/basic-guide/sound-1.jpeg){:height="500px" width="500px"}
 
-## Recording or In House Streaming
-See picture below for video booth soundboard setup
-
-1. On Midas broadcast board press Scenes
-1. Use Right Arrow to go to Scenes tab
-1. Use Left Knob to scroll down to Mains (#01)
-1. Press Left Knob to load
-1. Press Right Arrow to confirm
-1. Set far left and master faders to 0
-
-![Midas Screenshot](../assets/images/worship-center/basic-guide/sound-2.png){:height="500px" width="500px"}
-
 # Lights
 ## Open Program & Load Show
 
@@ -85,29 +73,46 @@ See picture below for video booth soundboard setup
 ![MyDMX Screenshot](../assets/images/worship-center/basic-guide/lights-1.jpeg){:height="400px" width="400px"}
 
 # Video
+**Turn on camera next to sound booth before setting up below**
+
 ## Setting Up Camera System
 1. Log into recording computer
 1. It will start Wirecast and ATEM automatically
+   - The computer is slow so it may take a minute
 1. Click on ATEM (program on bottom)
 1. Click File > Restore
 1. Choose No Wireless
-1. Click restore
+1. Click restore, then restore again on the next window that pops up (see pictures below)
 
 ![Video Restore 1](../assets/images/worship-center/basic-guide/video-1.png){:height="500px" width="500px"}
 ![Video Restore 2](../assets/images/worship-center/basic-guide/video-2.png){:height="500px" width="500px"}
 
-1. Press 3rd button on middle row of director controller (see 3rd picture below)
+## Choosing a Camera
+1. Press 3rd button on middle row of director controller (see picture below)
    - The one below number 3
-1. Click “DSK 1 CUT” if not already Red
+1. Click “DSK 1 CUT” on right side of controller if not already Red
 
 ![Video Director Controller](../assets/images/worship-center/basic-guide/video-3.png){:height="600px" width="600px"}
 
 ## Setting Camera
-1. Aim camera (next to sound booth) at podium (or wherever teaching is happening)
-1. Use zoom/focus on lens if needed to get good shot
+1. Aim camera (next to sound booth) at stage (or wherever teaching is happening)
+1. Use zoom/focus as needed to get good shot
 
-# Recording
-## Starting Recording
+# Recording or In House Streaming
+## Soundboard Setup
+See picture below for video booth soundboard setup
+
+1. On Midas broadcast board press Scenes
+1. Use Right Arrow to go to Scenes tab
+1. Use Left Knob to scroll down to Mains (#01)
+1. Press Left Knob to load
+1. Press Right Arrow to confirm
+1. Set far left fader to max
+1. Use master faders to set volume
+
+![Midas Screenshot](../assets/images/worship-center/basic-guide/sound-2.png){:height="500px" width="500px"}
+
+## Video Recording
 1. Prior to the start of the service click the record button (it should turn green)
    - Do Not Click Stream
 1. Make sure that the video on the computer screen is correct
