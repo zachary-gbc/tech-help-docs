@@ -21,7 +21,7 @@ You should only need to use this if the Tally lights are not working correctly.
 
 Click on the green/red TA on the top bar to open.
 
-![Opening Tally Arbiter](../../assets/images/tech-team-wc/video/ta-1.png){:height="100px" width="300px"}
+![Opening Tally Arbiter](/tech-help-docs/assets/images/tech-team-wc/video/ta-1.png){:height="100px" width="300px"}
 ![Opening Tally Arbiter Settings](../../assets/images/tech-team-wc/video/ta-2.png){:height="400px" width="400px"}
 
 Login using username admin and password 12345.
