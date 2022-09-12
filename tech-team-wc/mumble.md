@@ -17,10 +17,10 @@ nav_order: 2
 Mumble is available on both iOS and Android for free, you must be connected to the GBC network (not GBC Public) for it to work.
 
 ## Download App
-![iOS](../assets/images/mumble-ios.png){:height="300px" width="300px"} ![Android](../assets/images/mumble-android.png){:height="300px" width="300px"}
+![iOS](/tech-help-docs/assets/images/mumble-ios.png){:height="300px" width="300px"} ![Android](/tech-help-docs/assets/images/mumble-android.png){:height="300px" width="300px"}
 
 ## Connect to GBC WiFi
-![GBC WiFi](../assets/images/gbc-wifi.jpeg){:height="300px" width="300px"}
+![GBC WiFi](/tech-help-docs/assets/images/gbc-wifi.jpeg){:height="300px" width="300px"}
 
 ## First Time Setup
 Go to Preferences > Transmission > Choose Push to Talk

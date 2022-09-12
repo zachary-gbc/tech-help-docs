@@ -26,7 +26,7 @@ This page is meant to help as a reminder to basic startup, setup, and running of
 1. On left of screen find playlist you need
    - WC-Other expanded in picture to show contents
 
-![Media Playlist](../assets/images/worship-center/basic-guide/media-1.png){:height="400px" width="400px"}
+![Media Playlist](/tech-help-docs/assets/images/worship-center/basic-guide/media-1.png){:height="400px" width="400px"}
 
 ## Running Media
 1. Click on Item below playlist to load to center section
@@ -35,7 +35,7 @@ This page is meant to help as a reminder to basic startup, setup, and running of
 1. If you need to clear the screen or stop anything you can click clear all on the right
    - Clear all is the red vertical bar next to the output display
 
-![Media Screenshot](../assets/images/worship-center/basic-guide/media-2.png){:height="600px" width="600px"}
+![Media Screenshot](/tech-help-docs/assets/images/worship-center/basic-guide/media-2.png){:height="600px" width="600px"}
 
 # Sound
 ## Load Default
@@ -49,7 +49,7 @@ See Picture Below
 1. Click “User 1” and use center section for iMac, iPad, handhelds, and headset
 1. Wireless microphones are located in video booth on chargers
 
-![Wing Screenshot](../assets/images/worship-center/basic-guide/sound-1.jpeg){:height="500px" width="500px"}
+![Wing Screenshot](/tech-help-docs/assets/images/worship-center/basic-guide/sound-1.jpeg){:height="500px" width="500px"}
 
 # Lights
 ## Open Program & Load Show
@@ -70,7 +70,7 @@ See Picture Below
 1. There may be other buttons on this page to control various stage or effect lights
    - Test before service to determine what you will need/want
 
-![MyDMX Screenshot](../assets/images/worship-center/basic-guide/lights-1.jpeg){:height="400px" width="400px"}
+![MyDMX Screenshot](/tech-help-docs/assets/images/worship-center/basic-guide/lights-1.jpeg){:height="400px" width="400px"}
 
 # Video
 **Turn on camera next to sound booth before setting up below**
@@ -84,15 +84,15 @@ See Picture Below
 1. Choose No Wireless
 1. Click restore, then restore again on the next window that pops up (see pictures below)
 
-![Video Restore 1](../assets/images/worship-center/basic-guide/video-1.png){:height="500px" width="500px"}
-![Video Restore 2](../assets/images/worship-center/basic-guide/video-2.png){:height="500px" width="500px"}
+![Video Restore 1](/tech-help-docs/assets/images/worship-center/basic-guide/video-1.png){:height="500px" width="500px"}
+![Video Restore 2](/tech-help-docs/assets/images/worship-center/basic-guide/video-2.png){:height="500px" width="500px"}
 
 ## Choosing a Camera
 1. Press 3rd button on middle row of director controller (see picture below)
    - The one below number 3
 1. Click “DSK 1 CUT” on right side of controller if not already Red
 
-![Video Director Controller](../assets/images/worship-center/basic-guide/video-3.png){:height="600px" width="600px"}
+![Video Director Controller](/tech-help-docs/assets/images/worship-center/basic-guide/video-3.png){:height="600px" width="600px"}
 
 ## Setting Camera
 1. Aim camera (next to sound booth) at stage (or wherever teaching is happening)
@@ -110,11 +110,11 @@ See picture below for video booth soundboard setup
 1. Set far left fader to max
 1. Use master faders to set volume
 
-![Midas Screenshot](../assets/images/worship-center/basic-guide/sound-2.png){:height="500px" width="500px"}
+![Midas Screenshot](/tech-help-docs/assets/images/worship-center/basic-guide/sound-2.png){:height="500px" width="500px"}
 
 ## Video Recording
 1. Prior to the start of the service click the record button (it should turn green)
    - Do Not Click Stream
 1. Make sure that the video on the computer screen is correct
 
-![Recording Screenshot](../assets/images/worship-center/basic-guide/recording-1.jpeg){:height="500px" width="500px"}
+![Recording Screenshot](/tech-help-docs/assets/images/worship-center/basic-guide/recording-1.jpeg){:height="500px" width="500px"}
