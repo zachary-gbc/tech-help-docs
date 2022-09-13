@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Worship Center
+title: Basic Guides
 has_children: true
 nav_order: 3
 ---

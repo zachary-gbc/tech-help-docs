@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Basic Guide
-parent: Worship Center
+title: Worship Center Basic Guide
+parent: Basic Guides
 ---
 
 # Basic Tech Guide

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Basic Troubleshooting
-parent: Worship Center
+title: Worship Center Basic Troubleshooting
+parent: Basic Guides
 ---
 
 # Basic Troubleshooting
