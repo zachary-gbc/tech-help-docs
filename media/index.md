@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Sound
+title: Media
 has_children: true
-nav_order: 5
+nav_order: 4
 ---
 
-# Sound
+# Media

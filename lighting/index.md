@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Sound
+title: Lighting
 has_children: true
-nav_order: 5
+nav_order: 6
 ---
 
-# Sound
+# Lighting

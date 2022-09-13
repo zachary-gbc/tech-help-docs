@@ -12,10 +12,10 @@ Welcome to the GBC Tech Help Docs page. Use the menu on the left side (or top ri
 ## General
 This section covers topics not specific to any area or location such as downloading a YouTube video.
 
-## Worship Center
-This covers tech within the worship center at a basic level as well as some basic troubleshooting.
+## Basic Guides
+This has a basic guide and troubleshooting for working within certain rooms.
 
-## Tech Team
+## Media, Sound, Lighting, Video
 This section is for the more advanced topics that the scheduled tech team would need.
 
 ## Issues/Questions

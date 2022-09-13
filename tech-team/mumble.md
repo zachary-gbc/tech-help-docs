@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Mumble Guide
-parent: Tech Team - Worship Center
-nav_order: 2
+parent: Tech Team
 ---
 
 # Mumble Guide
