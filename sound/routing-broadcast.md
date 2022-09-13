@@ -2,7 +2,6 @@
 layout: default
 title: Routing for Broadcast
 parent: Sound
-grand_parent: Tech Team - Worship Center
 ---
 
 # Input List for Broadcast

@@ -2,7 +2,6 @@
 layout: default
 title: Tally Arbiter (Tally Lights)
 parent: Video
-grand_parent: Tech Team - Worship Center
 ---
 
 # Tally Arbiter (Tally Lights) Guide
