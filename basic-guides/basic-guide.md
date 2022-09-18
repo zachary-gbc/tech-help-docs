@@ -2,6 +2,7 @@
 layout: default
 title: Worship Center Basic Guide
 parent: Basic Guides
+nav_order: 2
 ---
 
 # Basic Tech Guide
