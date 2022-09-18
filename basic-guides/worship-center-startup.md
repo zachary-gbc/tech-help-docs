@@ -16,25 +16,29 @@ This is the overall process for turning things on for a full service.
 {:toc}
 
 # Turning Things On
-- Turn Key (Sequence Up)
-- Turn on Lighting Fader Board
-- Turn Computers On
-  - Media Computer
-  - Lighting Computer
-  - Recording/Streaming Computer
-  - Broadcast Sound Computer
-- Turn on Man-Cam
+- Turn key (sequence up)
+- Turn on lighting fader board
+  - This must be on before turning on computer
+- Turn computers on
+  - Media computer
+  - Lighting computer
+  - Recording/Streaming computer
+  - Broadcast sound computer
+- Turn on man-cam
+- Turn on TVs
+  - TVs on side of stage
+  - Stage displays (confidence monitors)
 
 # Loading Presets
 
 # Media
-Open ProPresenter (orange icon on dock) and Load Show Playlist on Left
+Open ProPresenter (orange icon on dock) and load show playlist on left
 
 # Sound
-Click Library and Load File for Day
+Click library and load file for day
 
 # Lighting
-Open MyDMX and Open File for Day
+Open MyDMX and open file for day
 
 # Video
-Restore Settings on ATEM Software
+Restore presets on ATEM software (file > restore)
