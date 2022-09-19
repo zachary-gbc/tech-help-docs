@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Worship Center Starup Procedure
+title: Worship Center Startup Procedure
 parent: Basic Guides
 nav_order: 1
 ---
@@ -35,7 +35,7 @@ This is the overall process for turning things on for a full service.
 Open ProPresenter (orange icon on dock) and load show playlist on left
 
 # Sound
-Click library and load file for day
+Press library and load file for day
 
 # Lighting
 Open MyDMX and open file for day
