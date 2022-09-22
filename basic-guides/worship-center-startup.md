@@ -42,3 +42,10 @@ Open MyDMX and open file for day
 
 # Video
 Restore presets on ATEM software (file > restore)
+
+# Mumble
+If using Mumble (tech team comms system):
+
+ - Click *Connect* in Mumble on lighting computer (Mumble starts automatically when starting computer)
+ - Connect via bluetooth to Jabra Engage 75
+ ![Jabra Connect](/tech-help-docs/assets/images/worship-center/startup/jabra-connect.png){:height="200px" width="400px"}
