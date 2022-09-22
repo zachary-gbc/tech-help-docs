@@ -46,6 +46,9 @@ Restore presets on ATEM software (file > restore)
 # Mumble
 If using Mumble (tech team comms system):
 
- - Click *Connect* in Mumble on lighting computer (Mumble starts automatically when starting computer)
- - Connect via bluetooth to Jabra Engage 75
- ![Jabra Connect](/tech-help-docs/assets/images/worship-center/startup/jabra-connect.png){:height="200px" width="400px"}
+- Click *Connect* in Mumble on lighting computer (Mumble starts automatically when starting computer)
+  - If Mumble crashes when connecting, restart from dock and click *Connect*
+  - If it continues to crash reboot computer
+- Connect via bluetooth to Jabra Engage 75
+
+![Jabra Connect](/tech-help-docs/assets/images/worship-center/startup/jabra-connect.png){:height="200px" width="400px"}
