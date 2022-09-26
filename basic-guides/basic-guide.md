@@ -21,6 +21,7 @@ This page is meant to help as a reminder to basic startup, setup, and running of
 - Sequence Up (turn the key under the soundboard 180°)
 - This is needed for running anything (sound, media, lights, video) and will turn everything on
 
+<div style="break-after:page"></div>
 # Media
 ## Opening Program
 
@@ -39,6 +40,7 @@ This page is meant to help as a reminder to basic startup, setup, and running of
 
 ![Media Screenshot](/tech-help-docs/assets/images/worship-center/basic-guide/media-2.png){:height="600px" width="600px"}
 
+<div style="break-after:page"></div>
 # Sound
 ## Load Default
 See Picture Below
@@ -53,6 +55,7 @@ See Picture Below
 
 ![Wing Screenshot](/tech-help-docs/assets/images/worship-center/basic-guide/sound-1.jpeg){:height="500px" width="500px"}
 
+<div style="break-after:page"></div>
 # Lights
 ## Open Program & Load Show
 
@@ -74,6 +77,7 @@ See Picture Below
 
 ![MyDMX Screenshot](/tech-help-docs/assets/images/worship-center/basic-guide/lights-1.jpeg){:height="400px" width="400px"}
 
+<div style="break-after:page"></div>
 # Video
 **Turn on camera next to sound booth before setting up below**
 
@@ -100,6 +104,7 @@ See Picture Below
 1. Aim camera (next to sound booth) at stage (or wherever teaching is happening)
 1. Use zoom/focus as needed to get good shot
 
+<div style="break-after:page"></div>
 # Recording or In House Streaming
 ## Soundboard Setup
 See picture below for video booth soundboard setup
