@@ -15,6 +15,7 @@ This page is meant to help as a reminder to basic startup, setup, and running of
 1. TOC
 {:toc}
 
+<div style="break-after:page"></div>
 # Turning Things On
 
 - Sequence Up (turn the key under the soundboard 180°)
