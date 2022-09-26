@@ -23,7 +23,7 @@ This page is meant to help as a reminder to basic startup, setup, and running of
 
 <div style="break-after:page"></div>
 # Media
-## Opening Program
+### Opening Program
 
 1. Open ProPresenter (orange icon on dock)
 1. On left of screen find playlist you need
@@ -31,7 +31,7 @@ This page is meant to help as a reminder to basic startup, setup, and running of
 
 ![Media Playlist](/tech-help-docs/assets/images/worship-center/basic-guide/media-1.png){:height="400px" width="400px"}
 
-## Running Media
+### Running Media
 1. Click on Item below playlist to load to center section
 1. Click on slide in center section to display on screen
 1. On the right you will see what is being displayed on the screens
@@ -67,6 +67,7 @@ See Picture Below
 1. Plug in house lights
    - Wire to right of light computer plug into ADJ box
 
+<div style="break-after:page"></div>
 ## Running Lights
 1. Use faders as needed during service
    - Master controls all lights
@@ -119,6 +120,7 @@ See picture below for video booth soundboard setup
 
 ![Midas Screenshot](/tech-help-docs/assets/images/worship-center/basic-guide/sound-2.png){:height="500px" width="500px"}
 
+<div style="break-after:page"></div>
 ## Video Recording
 1. Prior to the start of the service click the record button (it should turn green)
    - Do Not Click Stream
