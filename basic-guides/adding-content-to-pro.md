@@ -23,8 +23,9 @@ Images should be png or jpg. Some others might work as well but these are common
 
 Videos should be mp4 or mov.
 
+<div style="break-after:page"></div>
 ## Folders
-Common folder are listed below. Putting content into these folders will allow them to show up in ProPresenter in the media bin.
+Common folder are listed below. Putting content into these folders will cause them to show up in ProPresenter in the media bin.
 
 - Desktop > Worship Videos (contains all worship videos used by multiple ministries)
 - Desktop > CR > ProPresenter Content (any content in the "ProPresenter Content" folder will be in ProPresenter CR)
