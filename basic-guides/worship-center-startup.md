@@ -43,6 +43,7 @@ Open MyDMX and open file for day
 # Video
 Restore presets on ATEM software (file > restore)
 
+<div style="break-after:page"></div>
 # Mumble
 If using Mumble (tech team comms system):
 
