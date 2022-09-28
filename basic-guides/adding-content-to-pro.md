@@ -28,6 +28,6 @@ Common folder are listed below. Putting content into these folders will allow th
 
 - Desktop > Worship Videos (contains all worship videos used by multiple ministries)
 - Desktop > CR > ProPresenter Content (any content in the "ProPresenter Content" folder will be in ProPresenter CR)
-- Desktop > Re|engage > ProPresenter Content (any content in the "ProPresenter Content" folder will be in ProPresenter Re|engage)
+- Desktop > Re\|engage > ProPresenter Content (any content in the "ProPresenter Content" folder will be in ProPresenter Re\|engage)
 - Desktop > Womens > ProPresenter Content (any content in the "ProPresenter Content" folder will be in ProPresenter Womens)
 - Desktop > Graphics > Announcements > Current (used for announcement loop, usually highlighting upcoming events)
