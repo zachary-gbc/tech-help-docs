@@ -91,15 +91,15 @@ See Picture Below
 1. Choose No Wireless
 1. Click restore, then restore again on the next window that pops up (see pictures below)
 
-![Video Restore 1](/tech-help-docs/assets/images/worship-center/basic-guide/video-1.png){:height="500px" width="500px"}
-![Video Restore 2](/tech-help-docs/assets/images/worship-center/basic-guide/video-2.png){:height="500px" width="500px"}
+![Video Restore 1](/tech-help-docs/assets/images/worship-center/basic-guide/video-1.png){:height="400px" width="400px"}
+![Video Restore 2](/tech-help-docs/assets/images/worship-center/basic-guide/video-2.png){:height="400px" width="400px"}
 
 ## Choosing a Camera
 1. Press 3rd button on middle row of director controller (see picture below)
    - The one below number 3
 1. Click “DSK 1 CUT” on right side of controller if not already Red
 
-![Video Director Controller](/tech-help-docs/assets/images/worship-center/basic-guide/video-3.png){:height="600px" width="600px"}
+![Video Director Controller](/tech-help-docs/assets/images/worship-center/basic-guide/video-3.png){:height="500px" width="500px"}
 
 ## Setting Camera
 1. Aim camera (next to sound booth) at stage (or wherever teaching is happening)
