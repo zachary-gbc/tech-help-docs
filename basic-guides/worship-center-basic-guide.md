@@ -29,7 +29,7 @@ This page is meant to help as a reminder to basic startup, setup, and running of
 1. On left of screen find playlist you need
    - WC-Other expanded in picture to show contents
 
-![Media Playlist](/tech-help-docs/assets/images/basic-guides/worship-centermedia-1.png){:height="400px" width="400px"}
+![Media Playlist](/tech-help-docs/assets/images/basic-guides/worship-center/media-1.png){:height="400px" width="400px"}
 
 ### Running Media
 1. Click on Item below playlist to load to center section
@@ -38,7 +38,7 @@ This page is meant to help as a reminder to basic startup, setup, and running of
 1. If you need to clear the screen or stop anything you can click clear all on the right
    - Clear all is the red vertical bar next to the output display
 
-![Media Screenshot](/tech-help-docs/assets/images/basic-guides/worship-centermedia-2.png){:height="600px" width="600px"}
+![Media Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/media-2.png){:height="600px" width="600px"}
 
 <div style="break-after:page"></div>
 # Sound
@@ -53,7 +53,7 @@ See Picture Below
 1. Click “User 1” and use center section for iMac, iPad, handhelds, and headset
 1. Wireless microphones are located in video booth on chargers
 
-![Wing Screenshot](/tech-help-docs/assets/images/basic-guides/worship-centersound-1.jpeg){:height="500px" width="500px"}
+![Wing Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/sound-1.jpeg){:height="500px" width="500px"}
 
 <div style="break-after:page"></div>
 # Lights
@@ -76,7 +76,7 @@ See Picture Below
 1. There may be other buttons on this page to control various stage or effect lights
    - Test before service to determine what you will need/want
 
-![MyDMX Screenshot](/tech-help-docs/assets/images/basic-guides/worship-centerlights-1.jpeg){:height="400px" width="400px"}
+![MyDMX Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/lights-1.jpeg){:height="400px" width="400px"}
 
 <div style="break-after:page"></div>
 # Video
@@ -91,15 +91,15 @@ See Picture Below
 1. Choose No Wireless
 1. Click restore, then restore again on the next window that pops up (see pictures below)
 
-![Video Restore 1](/tech-help-docs/assets/images/basic-guides/worship-centervideo-1.png){:height="400px" width="400px"}
-![Video Restore 2](/tech-help-docs/assets/images/basic-guides/worship-centervideo-2.png){:height="400px" width="400px"}
+![Video Restore 1](/tech-help-docs/assets/images/basic-guides/worship-center/video-1.png){:height="400px" width="400px"}
+![Video Restore 2](/tech-help-docs/assets/images/basic-guides/worship-center/video-2.png){:height="400px" width="400px"}
 
 ## Choosing a Camera
 1. Press 3rd button on middle row of director controller (see picture below)
    - The one below number 3
 1. Click “DSK 1 CUT” on right side of controller if not already Red
 
-![Video Director Controller](/tech-help-docs/assets/images/basic-guides/worship-centervideo-3.png){:height="500px" width="500px"}
+![Video Director Controller](/tech-help-docs/assets/images/basic-guides/worship-center/video-3.png){:height="500px" width="500px"}
 
 ## Setting Camera
 1. Aim camera (next to sound booth) at stage (or wherever teaching is happening)
@@ -118,7 +118,7 @@ See picture below for video booth soundboard setup
 1. Set far left fader to max
 1. Use master faders to set volume
 
-![Midas Screenshot](/tech-help-docs/assets/images/basic-guides/worship-centersound-2.png){:height="500px" width="500px"}
+![Midas Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/sound-2.png){:height="500px" width="500px"}
 
 <div style="break-after:page"></div>
 ## Video Recording
@@ -126,4 +126,4 @@ See picture below for video booth soundboard setup
    - Do Not Click Stream
 1. Make sure that the video on the computer screen is correct
 
-![Recording Screenshot](/tech-help-docs/assets/images/basic-guides/worship-centerrecording-1.jpeg){:height="500px" width="500px"}
+![Recording Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/recording-1.jpeg){:height="500px" width="500px"}
