@@ -52,4 +52,4 @@ If using Mumble (tech team comms system):
   - If it continues to crash reboot computer
 - Connect via bluetooth to Jabra Engage 75
 
-![Jabra Connect](/tech-help-docs/assets/images/startup/jabra-connect.png){:height="200px" width="400px"}
+![Jabra Connect](/tech-help-docs/assets/images/basic-guides/startup/jabra-connect.png){:height="200px" width="400px"}
