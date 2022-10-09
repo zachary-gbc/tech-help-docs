@@ -7,7 +7,7 @@ nav_order: 2
 
 # Worship Center Playback Startup Procedure
 {: .no_toc }
-This is the overall process for turning things on for a full service.
+This is the process for starting playback and setting up the connection to stage.
 
 ## Table of Contents
 {: .no_toc }
@@ -23,10 +23,10 @@ This is the overall process for turning things on for a full service.
 1. Go back to backtrack computer and click on Audio MIDI Setup in the Dock
 1. The window below pops up, click the circle icon in top right-hand corner that reads “Configure Network Driver”  when it is hovered over
 
-![MIDI Setup 1](/tech-help-docs/assets/images/basic-guides/startup/midi-setup-1.jpeg){:height="400px" width="400px"}
+    ![MIDI Setup 1](/tech-help-docs/assets/images/basic-guides/startup/midi-setup-1.jpeg){:height="400px" width="400px"}
 ￼
 7. Click “PA12 A25-01” in the Directory window, and then click “Connect” (see below)
 
-![MIDI Setup 2](/tech-help-docs/assets/images/basic-guides/startup/midi-setup-2.jpeg){:height="400px" width="400px"}
+    ![MIDI Setup 2](/tech-help-docs/assets/images/basic-guides/startup/midi-setup-2.jpeg){:height="400px" width="400px"}
 
 8. You are now connected.
