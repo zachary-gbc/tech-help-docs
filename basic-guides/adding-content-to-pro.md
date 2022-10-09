@@ -2,7 +2,7 @@
 layout: default
 title: Adding Content to ProPresenter
 parent: Basic Guides
-nav_order: 3
+nav_order: 4
 ---
 
 # Adding Content to ProPresenter

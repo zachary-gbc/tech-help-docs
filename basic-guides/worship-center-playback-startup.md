@@ -2,7 +2,7 @@
 layout: default
 title: Worship Center Playback Startup Procedure
 parent: Basic Guides
-nav_order: 1
+nav_order: 2
 ---
 
 # Worship Center Playback Startup Procedure
