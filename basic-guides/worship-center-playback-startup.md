@@ -30,5 +30,4 @@ This is the process for starting playback and setting up the connection to stage
 
 ![MIDI Setup 2](/tech-help-docs/assets/images/basic-guides/startup/midi-setup-2.jpeg){:height="400px" width="400px"}
 
-{:start="8"}
-8. You are now connected.
+- You are now connected.
