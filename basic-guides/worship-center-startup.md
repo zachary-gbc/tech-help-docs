@@ -53,3 +53,6 @@ If using Mumble (tech team comms system):
 - Connect via bluetooth to Jabra Engage 75
 
 ![Jabra Connect](/tech-help-docs/assets/images/basic-guides/startup/jabra-connect.png){:height="200px" width="400px"}
+
+# Playback
+If using playback, see instructions [here](worship-center-playback-startup.html).
