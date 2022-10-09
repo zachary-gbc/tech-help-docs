@@ -26,9 +26,9 @@ This is the process for starting playback and setting up the connection to stage
 ![MIDI Setup 1](/tech-help-docs/assets/images/basic-guides/startup/midi-setup-1.jpeg){:height="400px" width="400px"}
 
 {:start="7"}
-1. Click “PA12 A25-01” in the Directory window, and then click “Connect” (see below)
+7. Click “PA12 A25-01” in the Directory window, and then click “Connect” (see below)
 
 ![MIDI Setup 2](/tech-help-docs/assets/images/basic-guides/startup/midi-setup-2.jpeg){:height="400px" width="400px"}
 
 {:start="8"}
-1. You are now connected.
+8. You are now connected.
