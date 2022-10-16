@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Adding Content to ProPresenter
-parent: Basic Guides
-nav_order: 4
+parent: Media
+nav_order: 1
 ---
 
 # Adding Content to ProPresenter
