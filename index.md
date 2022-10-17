@@ -11,6 +11,13 @@ Welcome to the GBC Tech Help Docs page. Use the menu on the left side (or top ri
 
 ## General
 This section covers topics not specific to any area or location such as downloading a YouTube video.
+<ul>
+{% for page in site.pages %}
+  {% if page.parent == 'General' %}
+    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
 
 ## Basic Guides
 This has a basic guide and troubleshooting for working within certain rooms.
