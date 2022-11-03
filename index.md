@@ -14,7 +14,7 @@ This section covers topics not specific to any area or location.
 <ul>
 {% for page in site.pages %}
   {% if page.parent == 'General' %}
-    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+    <li><a href="/tech-help-docs/{{ page.url }}">{{ page.title }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
@@ -24,7 +24,7 @@ This has a basic guide and troubleshooting for working within certain rooms.
 <ul>
 {% for page in site.pages %}
   {% if page.parent == 'Basic Guides' %}
-    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+    <li><a href="/tech-help-docs/{{ page.url }}">{{ page.title }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
@@ -35,7 +35,7 @@ This section is for the more advanced topics that the scheduled tech team would 
 <ul>
 {% for page in site.pages %}
   {% if page.parent == 'Media' %}
-    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+    <li><a href="/tech-help-docs/{{ page.url }}">{{ page.title }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
@@ -43,7 +43,7 @@ This section is for the more advanced topics that the scheduled tech team would 
 <ul>
 {% for page in site.pages %}
   {% if page.parent == 'Sound' %}
-    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+    <li><a href="/tech-help-docs/{{ page.url }}">{{ page.title }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
@@ -51,7 +51,7 @@ This section is for the more advanced topics that the scheduled tech team would 
 <ul>
 {% for page in site.pages %}
   {% if page.parent == 'Lighting' %}
-    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+    <li><a href="/tech-help-docs/{{ page.url }}">{{ page.title }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
@@ -59,7 +59,7 @@ This section is for the more advanced topics that the scheduled tech team would 
 <ul>
 {% for page in site.pages %}
   {% if page.parent == 'Video' %}
-    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+    <li><a href="/tech-help-docs/{{ page.url }}">{{ page.title }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
@@ -67,7 +67,7 @@ This section is for the more advanced topics that the scheduled tech team would 
 <ul>
 {% for page in site.pages %}
   {% if page.parent == 'Tech Team' %}
-    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+    <li><a href="/tech-help-docs/{{ page.url }}">{{ page.title }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
