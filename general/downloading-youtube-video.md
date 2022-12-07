@@ -11,7 +11,8 @@ parent: General
 3. Open ClipGrab
   - If not in dock then search using &#8984;+spacebar
 4. Paste the URL in the search bar
+  - Under the search bar make sure the format is what you want. Choose MPEG4 for a video or MP3 for audio only.
 5. Click Grab this clip! (on right side)
-6. Save the file to the desktop
+6. Save the file
 
 ![ClipGrab Screenshot](../assets/images/general/youtube-clipgrab.png){:height="600px" width="600px"}
