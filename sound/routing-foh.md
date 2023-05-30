@@ -32,8 +32,8 @@ parent: Sound
 | A22 | |
 | A23 | |
 | A24 | |
-| A25 | |
-| A26 | |
+| A25 | Bass |
+| A26 | Snare Bottom |
 | A27 | Kick |
 | A28 | Snare |
 | A29 | Rack Tom |
@@ -41,7 +41,7 @@ parent: Sound
 | A31 | Overhead Left |
 | A32 | Overhead Right |
 | A33 | Headset 1 |
-| A34 | |
+| A34 | Handheld Blue |
 | A35 | |
 | A36 | |
 | A37 | |
@@ -64,16 +64,25 @@ parent: Sound
 | B5 | |
 | B6 | |
 | B7 | |
-| B8 | Bass |
+| B8 | |
 | | |
 | Wing Local 1 | Talkback |
-| Wing Local 2 | Click |
+| Wing Local 2 | |
 | Wing Local 3 | iMac Left |
 | Wing Local 4 | iMac Right |
-| Wing Local 5 | Backtrack Left |
-| Wing Local 6 | Backtrack Right |
-| Wing Local 7 | Backtrack Extra #7 |
-| Wing Local 8 | Backtrack Extra #8 |
+| Wing Local 5 | |
+| Wing Local 6 | |
+| Wing Local 7 | |
+| Wing Local 8 | |
+| | |
+| USB 1 | Click |
+| USB 2 | Guide |
+| USB 3 | Backtrack Left |
+| USB 4 | Backtrack Right |
+| USB 5 | Backtrack Extra #5 |
+| USB 6 | Backtrack Extra #6 |
+| USB 7 | Backtrack Extra #7 |
+| USB 8 | Backtrack Extra #8 |
 | | |
 | AUX 1 | iPad Left |
 | AUX 2 | iPad Right |
