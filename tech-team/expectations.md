@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Responsibilities & Expectations
+title:  Expectations
 parent: Tech Team
 ---
 
-# Tech Team Responsibilities and Expectations
+# Tech Team Expectations
 While many of the responsibilities and expectations will change from position to position, there are many that will remain the same and should be core to what we do and how we do it here at GBC.
 
 ## Own Your Area
