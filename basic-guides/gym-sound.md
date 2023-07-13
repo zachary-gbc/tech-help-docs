@@ -19,8 +19,6 @@ nav_order: 4
 1. Press the On/Off button (see #2)
    - Ensure you press to turn speakers off when you are done
 
-![Sound System 1](/tech-help-docs/assets/images/basic-guides/gym-sound/1.png){:height="200px" width="200px"}
-
 # Turning Mics On/Off
 1. Open the lid of the wooden box (see #3)
 1. Flip the power switch on the top of the black box (see #4)
@@ -34,4 +32,6 @@ nav_order: 4
 1. Plug your device (phone/tablet/etc) to the plug near the bottom of the box (see #6)
 1. Use dials 2 & 3 to turn the mics up/down (see #5)
 
-![Sound System 2](/tech-help-docs/assets/images/basic-guides/gym-sound/2.png){:height="200px" width="300px"}
+![Sound System 1](/tech-help-docs/assets/images/basic-guides/gym-sound/1.png){:height="300px" width="300px"}
+
+![Sound System 2](/tech-help-docs/assets/images/basic-guides/gym-sound/2.png){:height="300px" width="500px"}
