@@ -24,29 +24,29 @@ parent: Sound
 | 14 | A14 | |
 | 15 | A15 | |
 | 16 | A16 | |
-| 17 | A17 | Keys Left |
-| 18 | A18 | Keys Right |
-| 19 | A19 | Pads Left |
-| 20 | A20 | Pads Right |
+| 17 | A17 | |
+| 18 | A18 | |
+| 19 | A19 | |
+| 20 | A20 | |
 | 21 | A21 | |
 | 22 | A22 | |
-| 23 | A23 | |
-| 24 | A24 | |
-| 25 | A25 | Bass |
-| 26 | A26 | |
-| 27 | A27 | Kick |
-| 28 | A28 | Snare |
-| 29 | A29 | Rack Tom |
-| 30 | A30 | Floor Tom |
-| 31 | A31 | Overhead Left |
-| 32 | A32 | Overhead Right |
-| 33 | A33 | Headset 1 |
-| 34 | A34 | Handheld Blue |
-| 35 | A35 | |
-| 36 | A36 | |
-| 37 | A37 | |
+| 23 | A23 | Kick |
+| 24 | A24 | Snare Top |
+| 25 | A25 | Snare Bottom |
+| 26 | A26 | Rack Tom |
+| 27 | A27 | Floor Tom |
+| 28 | A28 | Overhead Left |
+| 29 | A29 | Overhead Right |
+| 30 | A30 | Bass |
+| 31 | A31 | |
+| 32 | A32 | |
+| 33 | A33 | Keys Left |
+| 34 | A34 | Keys Right |
+| 35 | A35 | Pads Left |
+| 36 | A36 | Pads Right |
+| 37 | A37 | Handheld Blue |
 | 38 | A38 | |
-| 39 | A39 | |
+| 39 | A39 | Headset 1 |
 | 40 | A40 | |
 | 41 | USB 1 | Click |
 | 42 | USB 2 | Guide |

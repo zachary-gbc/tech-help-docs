@@ -24,29 +24,29 @@ parent: Sound
 | A14 | |
 | A15 | |
 | A16 | |
-| A17 | Keys Left |
-| A18 | Keys Right |
-| A19 | Pads Left |
-| A20 | Pads Right |
+| A17 | |
+| A18 | |
+| A19 | |
+| A20 | |
 | A21 | |
 | A22 | |
-| A23 | |
-| A24 | |
-| A25 | Bass |
-| A26 | Snare Bottom |
-| A27 | Kick |
-| A28 | Snare |
-| A29 | Rack Tom |
-| A30 | Floor Tom |
-| A31 | Overhead Left |
-| A32 | Overhead Right |
-| A33 | Headset 1 |
-| A34 | Handheld Blue |
-| A35 | |
-| A36 | |
-| A37 | |
+| A23 | Kick |
+| A24 | Snare Top |
+| A25 | Snare Bottom |
+| A26 | Rack Tom |
+| A27 | Floor Tom |
+| A28 | Overhead Left |
+| A29 | Overhead Right |
+| A30 | Bass |
+| A31 | |
+| A32 | |
+| A33 | Keys Left |
+| A34 | Keys Right |
+| A35 | Pads Left |
+| A36 | Pads Right |
+| A37 | Handheld Blue |
 | A38 | |
-| A39 | |
+| A39 | Headset 1 |
 | A40 | |
 | A41 | |
 | A42 | |
