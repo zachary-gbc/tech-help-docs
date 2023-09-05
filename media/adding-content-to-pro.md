@@ -32,3 +32,8 @@ Common folder are listed below. Putting content into these folders will cause th
 - Desktop > Re\|engage > ProPresenter Content (any content in the "ProPresenter Content" folder will be in ProPresenter Re\|engage)
 - Desktop > Womens > ProPresenter Content (any content in the "ProPresenter Content" folder will be in ProPresenter Womens)
 - Desktop > Graphics > Announcements > Current (used for announcement loop, usually highlighting upcoming events)
+
+# Finding Content in ProPresenter
+If you have added content to a folder above, within ProPresenter click the Media Bin (1) and then click the folder you need on the left (2).
+
+![ProPresenter Screenshot](../assets/images/media/propresenter-screen.png){:height="600px" width="600px"}

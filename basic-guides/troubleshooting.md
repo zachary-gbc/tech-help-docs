@@ -2,7 +2,7 @@
 layout: default
 title: Worship Center Basic Troubleshooting
 parent: Basic Guides
-nav_order: 4
+nav_order: 5
 ---
 
 # Basic Troubleshooting
