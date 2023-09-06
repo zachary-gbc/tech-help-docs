@@ -2,7 +2,6 @@
 layout: default
 title: Worship Center Startup Procedure
 parent: Basic Guides
-nav_order: 1
 ---
 
 # Worship Center Startup Procedure
