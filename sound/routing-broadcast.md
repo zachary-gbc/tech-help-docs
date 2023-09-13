@@ -28,8 +28,8 @@ parent: Sound
 | 18 | A18 | |
 | 19 | A19 | |
 | 20 | A20 | |
-| 21 | A21 | |
-| 22 | A22 | |
+| 21 | A21 | Bass |
+| 22 | A22 | Drummer Mic |
 | 23 | A23 | Kick |
 | 24 | A24 | Snare Top |
 | 25 | A25 | Snare Bottom |
@@ -37,7 +37,7 @@ parent: Sound
 | 27 | A27 | Floor Tom |
 | 28 | A28 | Overhead Left |
 | 29 | A29 | Overhead Right |
-| 30 | A30 | Bass |
+| 30 | A30 | |
 | 31 | A31 | |
 | 32 | A32 | |
 | 33 | A33 | Keys Left |
