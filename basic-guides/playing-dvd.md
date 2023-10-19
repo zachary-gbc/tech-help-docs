@@ -13,8 +13,7 @@ parent: Basic Guides
 2. Press HDMI on NovaStar (see picture)
  - In video booth press HDMI button on NovaStar (flip up cover to find HDMI button).
  - This will mirror the iMac on the LED wall.
-
-  ![ClipGrab Screenshot](../assets/images/basic-guides/worship-center/playing-dvd-1.png){:height="200px" width="600px"}
+ - ![ClipGrab Screenshot](../assets/images/basic-guides/worship-center/playing-dvd-1.png){:height="200px" width="600px"}
 
 3. Put DVD in
  - Put DVD into reader (on top of Mac Mini). 
