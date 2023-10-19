@@ -14,7 +14,7 @@ parent: Basic Guides
  - In video booth press HDMI button on NovaStar (flip up cover to find HDMI button).
  - This will mirror the iMac on the LED wall.
 
-![ClipGrab Screenshot](../assets/images/basic-guides/worship-center/playing-dvd-1.png){:height="200px" width="600px"}
+ ![ClipGrab Screenshot](../assets/images/basic-guides/worship-center/playing-dvd-1.png){:height="200px" width="600px"}
 
 3. Put DVD in
  - Put DVD into reader (on top of Mac Mini). 
@@ -27,7 +27,7 @@ parent: Basic Guides
 5. Sound (see picture)
  - On the soundboard in the center section click User 1 button (left picture), the iMac will be the first fader.  The mains and subs should both be at 0 and are on the right side of the board (right picture). If you want less sub you can turn that fader down.
 
-![ClipGrab Screenshot](../assets/images/basic-guides/worship-center/playing-dvd-2.png){:height="600px" width="200px"}
+ ![ClipGrab Screenshot](../assets/images/basic-guides/worship-center/playing-dvd-2.png){:height="600px" width="200px"}
 
 Troubleshooting
  - No sound - check to make sure the sound output of the iMac says Blackmagic Ultrastudio (click speaker icon on top right)
