@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Routing for FOH
+title: Sanctuary Routing for FOH
 parent: Sound
 ---
 
-# Input List for Front of House
+# Input List for Front of House in the Sanctuary
 
 | Source | Note |
 | --- | --- |

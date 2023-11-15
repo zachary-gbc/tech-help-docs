@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Routing for Broadcast
+title: Sanctuary Routing for Broadcast
 parent: Sound
 ---
 
@@ -53,9 +53,9 @@ parent: Sound
 | 43 | USB 3 | Backtrack Left |
 | 44 | USB 4 | Backtrack Right |
 | 45 | USB 5 | Backtrack Extra #5 |
-| 46 | USB 5 | Backtrack Extra #6 |
-| 47 | USB 5 | Backtrack Extra #7 |
-| 48 | USB 5 | Backtrack Extra #8 |
+| 46 | USB 6 | Backtrack Extra #6 |
+| 47 | USB 7 | Backtrack Extra #7 |
+| 48 | USB 8 | Backtrack Extra #8 |
 | 49 | Wing Local 3 | iMac Left |
 | 50 | Wing Local 4 | iMac Right |
 | 51 | B1 | Handheld Green |

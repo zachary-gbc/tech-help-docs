@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Worship Center Startup Procedure
+title: Sanctuary Startup Procedure
 parent: Basic Guides
 ---
 

@@ -6,15 +6,15 @@ parent: Sound
 
 # Available Microphones
 
-| Microphone | Wired | Wireless |
-| --- | --- | --- |
-| Beta58 | Yes | Yes |
-| Beta87 | Yes | No |
-| KSM9 | No | Yes |
-| Neumann KMS 105 | Yes | No |
-| Senheiser 985 | Yes | No |
-| SEV7 | Yes | No |
-| SM58 | Yes | Yes |
+| Microphone | Wired | Wireless | +48V |
+| --- | --- | --- | --- |
+| Beta58 | Yes | Yes | No |
+| Beta87 | Yes | No | Yes |
+| KSM9 | No | Yes | No |
+| Neumann KMS 105 | Yes | No | Yes |
+| Senheiser 985 | Yes | No | Yes |
+| SEV7 | Yes | No | No |
+| SM58 | Yes | Yes | No |
 
 # Best Microphones for Each Singer
 

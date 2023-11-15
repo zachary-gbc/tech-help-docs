@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Worship Center Playback Startup Procedure
+title: Sanctuary Playback Startup Procedure
 parent: Basic Guides
 ---
 

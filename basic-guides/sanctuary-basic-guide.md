@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Worship Center Basic Guide
+title: Sanctuary Basic Guide
 parent: Basic Guides
 ---
 
 # Basic Tech Guide
 {: .no_toc }
-This page is meant to help as a reminder to basic startup, setup, and running of tech in the worship center and ***does not*** replace  in-person training. If you are not trained on how to use the tech in the worship center please contact Zachary to get required training.
+This page is meant to help as a reminder to basic startup, setup, and running of tech in the sanctuary and ***does not*** replace  in-person training. If you are not trained on how to use the tech in the sanctuary please contact Zachary to get required training.
 
 ## Table of Contents
 {: .no_toc }
