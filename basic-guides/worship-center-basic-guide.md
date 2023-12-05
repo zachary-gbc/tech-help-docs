@@ -74,7 +74,7 @@ See Picture Below
    - House for the house lights
    - Stage for lights on stage
 1. There may be other buttons on this page to control various stage or effect lights
-   - Test before service to determine what you will need/want
+   - Test before service to determine what you will need/want
 
 ![MyDMX Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/lights-1.jpeg){:height="400px" width="400px"}
 
@@ -83,11 +83,12 @@ See Picture Below
 **Turn on camera next to sound booth before setting up below**
 
 ## Setting Up Camera System
+1. Turn on Man-Cam (Cam 3)
 1. Log into recording computer
 1. It will start Wirecast and ATEM automatically
    - The computer is slow so it may take a minute
 1. Click on ATEM (program on bottom)
-1. Click File > Restore
+1. Click File > Restore (Make sure Man-Cam/Cam3 is on before restoring settings)
 1. Choose No Wireless
 1. Click restore, then restore again on the next window that pops up (see pictures below)
 
