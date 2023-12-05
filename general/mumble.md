@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mumble Guide
-parent: Tech Team
+parent: General
 ---
 
 # Mumble Guide
