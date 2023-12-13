@@ -45,14 +45,15 @@ This page is meant to help as a reminder to basic startup, setup, and running of
 See Picture Below
 
 1. On Wing (Sound Booth) Push Library (#1 in picture)
+1. Ensure SNAP tab is active (tap if not yellow see #2 in picture)
 1. On Left scroll to top if needed
-1. Tap on 1-Default (#2 in picture)
-1. Click Load on Right (#3 in picture)
+1. Tap on 1-Default (#3 in picture)
+1. Click Load on Right (#4 in picture)
 1. Click Confirm
 1. Click “User 1” and use center section for iMac, iPad, handhelds, and headset
 1. Wireless microphones are located in video booth on chargers
 
-![Wing Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/sound-1.jpeg){:height="500px" width="500px"}
+![Wing Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/sound-1.png){:height="500px" width="500px"}
 
 <div style="break-after:page"></div>
 # Lights
