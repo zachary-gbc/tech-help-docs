@@ -52,6 +52,7 @@ See Picture Below
 1. Click Confirm
 1. Click “User 1” and use center section for iMac, iPad, handhelds, and headset
 1. Wireless microphones are located in video booth on chargers
+  - ** Important note, the mains are muted be default when the board turns on **
 
 ![Wing Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/sound-1.png){:height="500px" width="500px"}
 
