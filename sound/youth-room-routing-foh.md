@@ -50,18 +50,16 @@ parent: Sound
 | Wing Local 7 | |
 | Wing Local 8 | |
 | | |
-| USB 1 | Click |
-| USB 2 | Guide |
-| USB 3 | Backtrack Left |
-| USB 4 | Backtrack Right |
-| USB 5 | Backtrack Extra #5 |
-| USB 6 | Backtrack Extra #6 |
+| USB 1 | Left iMac Left |
+| USB 2 | Left iMac Right |
+| USB 3 | Click |
+| USB 4 | Guide |
+| USB 5 | Backtrack Left |
+| USB 6 | Backtrack Right |
 | USB 7 | Backtrack Extra #7 |
 | USB 8 | Backtrack Extra #8 |
+| USB 9 | Backtrack Extra #9 |
+| USB 10 | Backtrack Extra #10 |
 | | |
-| AUX 1 | Left iMac Left |
-| AUX 2 | Left iMac Right |
-| AUX 3 | Right iMac Left |
-| AUX 4 | Right iMac Right |
-| AUX 5 | Chromecast Left |
-| AUX 6 | Chromecast Right |
+| AUX 1 | Chromecast Left |
+| AUX 2 | Chromecast Right |
