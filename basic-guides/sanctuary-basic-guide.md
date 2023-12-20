@@ -44,7 +44,7 @@ This page is meant to help as a reminder to basic startup, setup, and running of
 ## Load Default
 See Picture Below
 
-1. On Wing (Sound Booth) Push Library (#1 in picture)
+1. On Wing (in sound booth) press Library (#1 in picture)
 1. Ensure SNAP tab is active (tap if not yellow see #2 in picture)
 1. On Left scroll to top if needed
 1. Tap on 1-Default (#3 in picture)
