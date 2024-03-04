@@ -7,7 +7,7 @@ parent: Tech Team
 # Stage Manager Expectations
 
 Responsible for:
-- Meeting with individuals involved in service and ensure they have what they need
+- Meeting with individuals involved in service and ensuring they have what they need
   - Pastor, those doing call to worship, pastoral prayer, final words, special, etc.
 - Handing out correct microphones, ensuring they are on (locked on if needed)
 - Providing cues to people who have parts in the service
