@@ -12,7 +12,7 @@ Responsible for:
 - Providing a distraction-free service as it relates to lighting
 - Choosing colors and setting focuses as needed
 - Running and adjusting fazer for atmospheric effects
-- Attending Saturday practice and Sunday morning rehearsal
+- Attending Saturday practice, Sunday morning rehearsal, and both services
 
 Not Responsible for:
 - Patching new lights into file

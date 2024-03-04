@@ -16,7 +16,7 @@ Responsible for:
   - Headset(s)
   - Handheld(s)
   - Audio from media including computer and iPad
-- Attending Saturday practice and Sunday morning rehearsal
+- Attending Saturday practice, Sunday morning rehearsal, and both services
 
 Not Responsible for:
 - Setting out wires, mics, speakers, etc.

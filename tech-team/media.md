@@ -14,7 +14,7 @@ Responsible for:
 - Know how to clear backgrounds, foregrounds, all
 - Edit Timers
 - Check with speakers before service to obtain special cues and/or notes
-- Attending Saturday practice and Sunday morning rehearsal
+- Attending Saturday practice, Sunday morning rehearsal, and both services
 
 Not Responsible for:
 - Creating media
