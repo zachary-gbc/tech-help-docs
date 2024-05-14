@@ -112,20 +112,21 @@ See Picture Below
 ## Soundboard Setup
 See picture below for video booth soundboard setup
 
-1. On Midas broadcast board press Scenes (#1 in picture)
-1. Use Right Arrow to go to Scenes tab (#2 in picture)
-1. Use Left Knob to scroll down to Mains (#01)  (#3 in picture)
-1. Press Left Knob to load  (#3 in picture)
-1. Press Right Arrow to confirm  (#2 in picture)
+1. On Midas broadcast board press View in Show Control section (#1 in picture)
+1. Use Right Arrow to go to Scenes tab
+1. Use Left Knob to scroll down to Mains (#02)  (#2 in picture)
+1. Press Left Knob to load
+1. Press Right Arrow to confirm  (#3 in picture)
 1. Set far left fader to max
 1. Use master faders to set volume
 
-![Midas Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/sound-2.png){:height="500px" width="500px"}
+![Recording Sound Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/sound-2.png){:height="600px" width="500px"}
 
 <div style="break-after:page"></div>
 ## Video Recording
-1. Prior to the start of the service click the record button (it should turn green)
+1. Prior to the start of the service click the record button (it should turn blue)
    - Do Not Click Stream
 1. Make sure that the video on the computer screen is correct
+   - Click Stop Recording to stop the recording
 
-![Recording Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/recording-1.jpeg){:height="500px" width="500px"}
+![OBS Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/recording-1.png){:height="500px" width="500px"}
