@@ -124,9 +124,9 @@ See picture below for video booth soundboard setup
 
 <div style="break-after:page"></div>
 ## Video Recording
-1. Prior to the start of the service click the record button (it should turn blue)
+1. Prior to the start of the service click the record button on the bottom right of the OBS window (it should turn blue)
    - Do Not Click Stream
 1. Make sure that the video on the computer screen is correct
    - Click Stop Recording to stop the recording
 
-![OBS Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/recording-1.png){:height="500px" width="500px"}
+![OBS Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/recording-1.png){:height="800px" width="800px"}
