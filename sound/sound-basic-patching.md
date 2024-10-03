@@ -10,7 +10,7 @@ Default file has keys, pads, and acoustic guitar patched in. See below for plugg
 
 ## Patching
 
-1. On the wing press the home button to the left of the screen, then press the box under "SELECT MAIN INPUT"
+1. On the wing press the home button to the left of the screen, then press the square box under "INPUT"
 1. On the right ensure "AES50 A" is selected from the dropdown
 1. The inputs listed correspond to the inputs labeled on stage in the stage pockets
 1. If the input should be in stereo press the "ST" on the top right, if only one input, press the "M" on the top right
