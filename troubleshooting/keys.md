@@ -7,7 +7,7 @@ parent: Troubleshooting
 # Keys and Pads Troubleshooting
 
 ## If the keys are not working as expected:
-1. Click on PROGRAM BANK A. You should see A:01:1 on the screen (see #1)
+ - Click on PROGRAM BANK A. You should see A:01:1 on the screen (see #1)
 
 ## To transpose:
 1. Click button once to turn on (see #2)
