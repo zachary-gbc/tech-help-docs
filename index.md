@@ -30,7 +30,7 @@ This has a basic guide for working within certain rooms.
 </ul>
 
 ## Troubleshooting
-This has a commons issues and fixes for them
+This has common issues and fixes for them
 <ul>
 {% for page in site.pages %}
   {% if page.parent == 'Troubleshooting' %}
