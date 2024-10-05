@@ -23,12 +23,3 @@ Default file has keys, pads, and acoustic guitar patched in. See below for plugg
 ![Sound Patching 3](../assets/images/sound/patching-step-3.png){:height="600px" width="600px"}
 ![Sound Patching 4](../assets/images/sound/patching-step-4.png){:height="600px" width="600px"}
 ![Sound Patching 5](../assets/images/sound/patching-step-5.png){:height="600px" width="600px"}
-
-# Plugging in Guitar for Default File
-
-1. Get an xlr wire and DI box from the cable closet behind stage at the top of the ramp (see picture of cord and DI box below)
-1. Plug the xlr into input 3 (if needed unplug any wire that is plugged into input 3) and then into the DI box (see picture below)
-1. Plug the guitar into the DI box
-
-![XLR and DI Box](../assets/images/sound/xlr-and-di-box.png){:height="600px" width="600px"}
-![Stage Box](../assets/images/sound/stage-box.png){:height="600px" width="600px"}

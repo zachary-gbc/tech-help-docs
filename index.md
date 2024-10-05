@@ -20,10 +20,20 @@ This section covers topics not specific to any area or location.
 </ul>
 
 ## Basic Guides
-This has a basic guide and troubleshooting for working within certain rooms.
+This has a basic guide for working within certain rooms.
 <ul>
 {% for page in site.pages %}
   {% if page.parent == 'Basic Guides' %}
+    <li><a href="/tech-help-docs/{{ page.url }}">{{ page.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+## Troubleshooting
+This has a commons issues and fixes for them
+<ul>
+{% for page in site.pages %}
+  {% if page.parent == 'Troubleshooting' %}
     <li><a href="/tech-help-docs/{{ page.url }}">{{ page.title }}</a></li>
   {% endif %}
 {% endfor %}
