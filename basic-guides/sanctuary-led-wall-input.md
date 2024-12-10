@@ -8,7 +8,7 @@ parent: Basic Guides
 {: .no_toc }
 Normally the input is set to the output from ProPresenter. To mirror the Mac up on the LED Wall or change the input back to ProPresenter see below.
 
-# Please Change it back to what it was before you started when you are done!
+# Please Change Input back when you are done!
 
 <div style="break-after:page"></div>
 # Choosing Input
