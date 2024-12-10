@@ -17,4 +17,4 @@ Normally the input is set to the output from ProPresenter. To mirror the Mac up 
 1. Open first bookmark labeled "BUTTONS"
 1. Choose the input you would like on the LED Wall
 
-![Buttons](/tech-help-docs/assets/images/basic-guides/worship-center/led-wall-input-1.png){:height="400px" width="400px"}
+![Buttons](/tech-help-docs/assets/images/basic-guides/worship-center/led-wall-input-1.png){:height="600px" width="800px"}

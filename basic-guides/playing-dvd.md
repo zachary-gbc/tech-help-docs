@@ -10,10 +10,7 @@ parent: Basic Guides
  - iMac
  - AVL system (sequence up)
 
-2. Press HDMI on NovaStar (see picture)
- - In video booth press HDMI button on NovaStar (flip up cover to find HDMI button).
- - This will mirror the iMac on the LED wall.
- - ![ClipGrab Screenshot](../assets/images/basic-guides/worship-center/playing-dvd-1.png){:height="200px" width="600px"}
+2. Follow steps [here](../sanctuary-led-wall-input.md) and choose option to display computer on LED wall.
 
 3. Put DVD in
  - Put DVD into reader (on top of Mac Mini). 
@@ -31,3 +28,4 @@ Troubleshooting
  - No sound - check to make sure the sound output of the iMac says Blackmagic Ultrastudio (click speaker icon on top right)
  - DVD player won’t open - make sure DVD is in and search using spotlight search for DVD player
  - Anything else - Call Zachary to walk through troubleshooting steps
+ 
