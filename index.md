@@ -40,7 +40,7 @@ This has common issues and fixes for them
 </ul>
 
 ## Media, Sound, Lighting, Video
-This section is for the more advanced topics that the scheduled tech team would need.
+This section is for the more advanced topics.
 #### Media
 <ul>
 {% for page in site.pages %}

@@ -2,7 +2,7 @@
 layout: default
 title: Adding Content to ProPresenter
 parent: Media
-nav_order: 1
+nav_order: 2
 ---
 
 # Adding Content to ProPresenter
