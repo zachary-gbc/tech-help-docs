@@ -49,4 +49,10 @@ parent: Sound
 | 39 | Handheld Orange |
 | 40 | Handheld White |
 | 41 | Headset 1 |
-| 42 | Extra |
+| 42 | iPad |
+| 43 | Mac Left |
+| 44 | Mac Right |
+| 45 | Mains Left |
+| 46 | Mains Right |
+| 47 | Subs Left |
+| 48 | Subs Right |
