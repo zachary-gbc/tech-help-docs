@@ -30,4 +30,3 @@ nav_order: 1
 
 - Bar lights aren't working
   - Bar lights are powered by the keys so if they keys are off the bar lights won't work; turn the keys on by flipping the switch underneath the keyboard
-

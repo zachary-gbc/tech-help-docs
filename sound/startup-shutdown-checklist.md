@@ -13,5 +13,5 @@ nav_order: 1
 - Gather wireless microphones that will be used and ensure they are working (if there is a stage manager available give the microphones to them to hand out)
 
 # Sound Shutdown Checklist
-- Turn Computer Off
+- Turn Computer Off (Click Apple icon on top left and choose shut down)
 - Turn key to turn off system (ensure soundboard turns off, usually takes about 2 minutes)

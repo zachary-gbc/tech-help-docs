@@ -44,8 +44,8 @@ parent: Sound
 | A34 | Keys Right |
 | A35 | Pads Left |
 | A36 | Pads Right |
-| A37 | Handheld Blue |
-| A38 | |
+| A37 | Handheld Red |
+| A38 | Handheld Yellow |
 | A39 | Headset 1 |
 | A40 | |
 | A41 | |
@@ -57,9 +57,9 @@ parent: Sound
 | A47 | |
 | A48 | |
 | | |
-| B1 | Handheld Green |
-| B2 | Handheld Orange |
-| B3 | Handheld Red |
+| B1 | Handheld Blue |
+| B2 | Handheld Green |
+| B3 | Handheld Orange |
 | B4 | Handheld White |
 | B5 | |
 | B6 | |
