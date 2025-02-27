@@ -42,24 +42,24 @@ parent: Sound
 | A32 | Headset 1 |
 | | |
 | Wing Local 1 | Talkback |
-| Wing Local 2 | |
-| Wing Local 3 | |
+| Wing Local 2 | Media Mac Left |
+| Wing Local 3 | Media Mac Right |
 | Wing Local 4 | |
 | Wing Local 5 | |
 | Wing Local 6 | |
 | Wing Local 7 | |
 | Wing Local 8 | |
 | | |
-| USB 1 | Left iMac Left |
-| USB 2 | Left iMac Right |
-| USB 3 | Click |
-| USB 4 | Guide |
-| USB 5 | Backtrack Left |
-| USB 6 | Backtrack Right |
+| USB 1 | Click |
+| USB 2 | Guide |
+| USB 3 | Backtrack Left |
+| USB 4 | Backtrack Right |
+| USB 5 | Backtrack Extra #5 |
+| USB 6 | Backtrack Extra #6 |
 | USB 7 | Backtrack Extra #7 |
 | USB 8 | Backtrack Extra #8 |
-| USB 9 | Backtrack Extra #9 |
-| USB 10 | Backtrack Extra #10 |
 | | |
 | AUX 1 | Chromecast Left |
 | AUX 2 | Chromecast Right |
+| AUX 3 | iPad Right |
+| AUX 4 | iPad Right |
