@@ -44,10 +44,10 @@ parent: Sound
 | 34 | A34 | Keys Right |
 | 35 | A35 | Pads Left |
 | 36 | A36 | Pads Right |
-| 37 | A37 | Handheld Blue |
-| 38 | A38 | |
-| 39 | A39 | Headset 1 |
-| 40 | A40 | |
+| 37 | A37 | Handheld Purple |
+| 38 | A38 | Handheld Red |
+| 39 | A39 | Handheld Yellow |
+| 40 | A40 | Headset 1 |
 | 41 | USB 1 | Click |
 | 42 | USB 2 | Guide |
 | 43 | USB 3 | Backtrack Left |
