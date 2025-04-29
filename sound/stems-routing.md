@@ -25,7 +25,7 @@ parent: Sound
 | 15 | Overhead Right |
 | 16 | Extra |
 | 17 | Bass Left |
-| 18 | Bass Left |
+| 18 | Bass Right |
 | 19 | Electric 1 Left |
 | 20 | Electric 1 Right |
 | 21 | Electric 2 Left |
