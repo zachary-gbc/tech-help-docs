@@ -5,6 +5,7 @@ parent: General
 ---
 
 # NOT CURRENTLY IN USE, TO BE CONFIGURED LATER
+{: .no_toc }
 
 # Midi Network
 {: .no_toc }
@@ -92,7 +93,7 @@ parent: General
 | 11 | Pad On/Off |
 | 12 | Fade Out |
 
-# Channel 3 & 4 (Lighting X-Touch)
+# Channel 3 (page 1) & 4 (page 2) (Lighting X-Touch)
 
 | Midi Note | Action | Type |
 | --- | --- |
