@@ -2,6 +2,7 @@
 layout: default
 title: Using the Default File
 parent: Sound
+nav_order: 3
 ---
 
 # Using the Soundbaord Default File

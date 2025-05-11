@@ -2,6 +2,7 @@
 layout: default
 title: Soundboard Basic Patching
 parent: Sound
+nav_order: 2
 ---
 
 # Basic Patching for Soundboard

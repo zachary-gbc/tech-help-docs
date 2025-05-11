@@ -2,6 +2,7 @@
 layout: default
 title: Sanctuary Routing for FOH
 parent: Sound
+nav_order: 4
 ---
 
 # Input List for Front of House in the Sanctuary

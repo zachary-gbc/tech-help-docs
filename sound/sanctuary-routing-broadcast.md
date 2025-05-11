@@ -2,6 +2,7 @@
 layout: default
 title: Sanctuary Routing for Broadcast
 parent: Sound
+nav_order: 5
 ---
 
 # Input List for Broadcast

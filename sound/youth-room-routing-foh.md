@@ -2,6 +2,7 @@
 layout: default
 title: Youth Room Routing for FOH
 parent: Sound
+nav_order: 7
 ---
 
 # Input List for Front of House in the Youth Room
