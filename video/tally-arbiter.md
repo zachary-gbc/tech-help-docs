@@ -2,6 +2,7 @@
 layout: default
 title: Tally Arbiter (Tally Lights)
 parent: Video
+nav_order 2
 ---
 
 # Tally Arbiter (Tally Lights) Guide

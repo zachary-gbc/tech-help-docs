@@ -2,6 +2,7 @@
 layout: default
 title: Atem Inputs
 parent: Video
+nav_order: 3
 ---
 
 | Input Number | Camera |

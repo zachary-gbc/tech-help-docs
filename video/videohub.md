@@ -2,6 +2,7 @@
 layout: default
 title: Video Hub
 parent: Video
+nav_order: 4
 ---
 
 | Number | Input | Output | Input Source |

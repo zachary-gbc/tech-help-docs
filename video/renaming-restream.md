@@ -2,6 +2,7 @@
 layout: default
 title: Renaming Restream
 parent: Video
+nav_order: 1
 ---
 
 # Renaming Restream Process
@@ -23,7 +24,7 @@ Open the page by clicking here: [Restream Dashboard](https://app.restream.io/cha
 # Settings
 Once open click Update Titles near the top right of the page.
 
-Update the title for the upcoming service, the format should be "Groton Bible Chapel - Month Day, Year Time". For example: "Groton Bible Chapel - January 1, 2024 9:00am"
+Update the title for the upcoming service, the format should be "Groton Bible Chapel - Day". For example: "Groton Bible Chapel - January 1, 2025"
 
 Once updated click Update All and then they should all show the updated title.
 
