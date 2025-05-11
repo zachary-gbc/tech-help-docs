@@ -12,7 +12,7 @@ Welcome to the GBC Tech Help Docs page. Use the menu on the left side (or top ri
 ## General
 This section covers topics not specific to any area or location.
 <ul>
-{% assign sorted_pages = site.pages | sort:"order" %}
+{% assign sorted_pages = site.pages | sort:"nav_order" %}
 {% for page in sorted_pages %}
   {% if page.parent == 'General' %}
     <li><a href="/tech-help-docs/{{ page.url }}">{{ page.title }}</a></li>
