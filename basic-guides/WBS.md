@@ -11,7 +11,7 @@ nav_order: 5
 
 For Women's Bible Study need to follow the below guides to turn things on and set things up.
 
-[Startup Procedure](worship-center-startup.html) - see notes below for each section.
+[Startup Procedure](worship-center-startup.md) - see notes below for each section.
 
 *Media* - On left load Women's Bible Study under Worship Center Other
 
