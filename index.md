@@ -7,12 +7,12 @@ nav_order: 1
 
 # Groton Bible Chapel Tech Help Documents
 
-Welcome to the GBC Tech Help Docs page. Use the menu on the left side (or top right if on mobile) to navigate the sections/pages. Please note this is to help as a reminder of how to do things and ***does not*** replace in-person training. If you need to be trained to run tech please reach out to Zachary for assistance.
+Welcome to the GBC Tech Help Docs page. Use the menu on the left side (or top right if on mobile) to navigate the sections/pages. Please note this is to help as a reminder of how to do things and ***does not*** replace in-person training. If you need to be trained to run tech please reach out to Zachary.
 
 ## General
 This section covers topics not specific to any area or location.
 <ul>
-{% for page in site.pages %}
+{% for page in site.pages | sort:"nav_order" %}
   {% if page.parent == 'General' %}
     <li><a href="/tech-help-docs/{{ page.url }}">{{ page.title }}</a></li>
   {% endif %}
