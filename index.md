@@ -33,7 +33,7 @@ This has a basic guide for working within certain rooms.
 ## Troubleshooting
 This has common issues and fixes for them
 <ul>
-{% for page in site.pages %}
+{% for page in sorted_pages %}
   {% if page.parent == 'Troubleshooting' %}
     <li><a href="/tech-help-docs/{{ page.url }}">{{ page.title }}</a></li>
   {% endif %}
@@ -44,7 +44,7 @@ This has common issues and fixes for them
 This section is for the more advanced topics.
 #### Media
 <ul>
-{% for page in site.pages %}
+{% for page in sorted_pages %}
   {% if page.parent == 'Media' %}
     <li><a href="/tech-help-docs/{{ page.url }}">{{ page.title }}</a></li>
   {% endif %}
@@ -52,7 +52,7 @@ This section is for the more advanced topics.
 </ul>
 #### Sound
 <ul>
-{% for page in site.pages %}
+{% for page in sorted_pages %}
   {% if page.parent == 'Sound' %}
     <li><a href="/tech-help-docs/{{ page.url }}">{{ page.title }}</a></li>
   {% endif %}
@@ -60,7 +60,7 @@ This section is for the more advanced topics.
 </ul>
 #### Lighting
 <ul>
-{% for page in site.pages %}
+{% for page in sorted_pages %}
   {% if page.parent == 'Lighting' %}
     <li><a href="/tech-help-docs/{{ page.url }}">{{ page.title }}</a></li>
   {% endif %}
@@ -68,7 +68,7 @@ This section is for the more advanced topics.
 </ul>
 #### Video
 <ul>
-{% for page in site.pages %}
+{% for page in sorted_pages %}
   {% if page.parent == 'Video' %}
     <li><a href="/tech-help-docs/{{ page.url }}">{{ page.title }}</a></li>
   {% endif %}
@@ -76,7 +76,7 @@ This section is for the more advanced topics.
 </ul>
 #### Tech Team
 <ul>
-{% for page in site.pages %}
+{% for page in sorted_pages %}
   {% if page.parent == 'Tech Team' %}
     <li><a href="/tech-help-docs/{{ page.url }}">{{ page.title }}</a></li>
   {% endif %}
