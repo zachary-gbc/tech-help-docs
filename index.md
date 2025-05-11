@@ -13,7 +13,7 @@ Welcome to the GBC Tech Help Docs page. Use the menu on the left side (or top ri
 This section covers topics not specific to any area or location.
 <ul>
 {% assign sorted_pages = site.pages | sort:"order" %}
-{% for page in ssorted_pages %}
+{% for page in sorted_pages %}
   {% if page.parent == 'General' %}
     <li><a href="/tech-help-docs/{{ page.url }}">{{ page.title }}</a></li>
   {% endif %}
@@ -23,7 +23,7 @@ This section covers topics not specific to any area or location.
 ## Basic Guides
 This has a basic guide for working within certain rooms.
 <ul>
-{% for page in site.pages %}
+{% for page in sorted_pages %}
   {% if page.parent == 'Basic Guides' %}
     <li><a href="/tech-help-docs/{{ page.url }}">{{ page.title }}</a></li>
   {% endif %}
