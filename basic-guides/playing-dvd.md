@@ -2,6 +2,7 @@
 layout: default
 title: Playing a DVD in the Sanctuary
 parent: Basic Guides
+nav_order: 3
 ---
 
 # How to Play a DVD in the Sanctuary

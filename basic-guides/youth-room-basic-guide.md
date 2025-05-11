@@ -2,6 +2,7 @@
 layout: default
 title: Youth Room Basic Guide
 parent: Basic Guides
+nav_order: 7
 ---
 
 # Basic Tech Guide

@@ -2,6 +2,7 @@
 layout: default
 title: Sanctuary Playback Startup Procedure
 parent: Basic Guides
+nav_order: 6
 ---
 
 # Worship Center Playback Startup Procedure

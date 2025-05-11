@@ -2,6 +2,7 @@
 layout: default
 title: Sanctuary LED Wall Input
 parent: Basic Guides
+nav_order: 4
 ---
 
 # How to Change Sanctuary LED Wall Input

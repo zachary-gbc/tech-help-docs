@@ -5,8 +5,6 @@ parent: Lighting
 nav_order: 2
 ---
 
-[[ Page Under Construction ]]
-
 # Programming Basic Guide
 Use this guide to refresh your memory on the basics of programming. If you need more than just basics and don't remember how to do what you need to reach out to someone who knows MyDMX and can help.
 
@@ -14,4 +12,6 @@ Use this guide to refresh your memory on the basics of programming. If you need 
 1. Start by going to Show tab and clicking band on the top left
 1. Turn up the faders on the board so you will have lights when you start programming
 1. Go to Edit tab and choose the first song
-1. 
+   - If the song is running you will not be able to program a color, press the green play button on the top right to be able to start programming
+1. Choose lights and set a color
+1. Set a color for each light or set of lights, 

@@ -2,6 +2,7 @@
 layout: default
 title: Sanctuary Startup Procedure
 parent: Basic Guides
+nav_order: 2
 ---
 
 # Worship Center Startup Procedure

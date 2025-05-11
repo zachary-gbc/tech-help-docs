@@ -2,6 +2,7 @@
 layout: default
 title: Basic Troubleshooting
 parent: Basic Guides
+nav_order: 9
 ---
 
 # Basic Troubleshooting

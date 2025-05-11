@@ -2,6 +2,7 @@
 layout: default
 title: Gym Sound System
 parent: Basic Guides
+nav_order: 8
 ---
 
 # Gym Sound System Usage

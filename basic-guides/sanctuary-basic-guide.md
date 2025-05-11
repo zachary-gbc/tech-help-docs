@@ -2,6 +2,7 @@
 layout: default
 title: Sanctuary Basic Guide
 parent: Basic Guides
+nav_order: 1
 ---
 
 # Basic Tech Guide
