@@ -2,7 +2,7 @@
 layout: default
 title: Stems Routing for FOH
 parent: Sound
-nav_order: 6
+nav_order: 7
 ---
 
 # Stems Routing for Virtual Sound Check and Training

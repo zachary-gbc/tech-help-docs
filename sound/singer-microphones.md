@@ -2,7 +2,7 @@
 layout: default
 title: Singer Microphones
 parent: Sound
-nav_order: 8
+nav_order: 9
 ---
 
 # Available Microphones
