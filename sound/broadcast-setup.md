@@ -38,8 +38,8 @@ nav_order: 6
 # Setting up for Third Service (Recording and Turning Mains Up)
 
 1. Click "R" next to each channel on the top left list of channels
-  - You can click the first one, then hold shift and click the last one to select all channels
-  - Make sure you set the "R" in the recording section for the Click, Guide, Mains, Subs, Etc.
+  - You can click the first channel (not the R, click the channel name), then hold shift and click the last channel to select all channels
+  - Make sure you set the "R" in the recording section for the Click, Guide, Mains, and Subs
 1. Mute all DCAs and all channels not going to the DCAs (crowd, wireless mics, computer, etc.)
 1. On Midas soundbaord press AUX IN USB button on far left
 1. Mute the first two channels (they are linked so only need to mute one and both will mute)
