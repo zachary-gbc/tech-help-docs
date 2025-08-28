@@ -77,7 +77,7 @@ parent: General
 
 # Channel 2 (Playback)
 
-| Midi Note | Action |
+| Program Change | Action |
 | --- | --- |
 | 0 | Play/Pause |
 | 1 | Song 1 |
@@ -92,6 +92,11 @@ parent: General
 | 10 | Song 10 |
 | 11 | Pad On/Off |
 | 12 | Fade Out |
+| 13 | Back |
+| 14 | Forward |
+| 15 | Loop |
+| 16 | Infinity Loop |
+| 30 | Master Fader |
 
 # Channel 3 (page 1) & 4 (page 2) (Lighting X-Touch)
 
