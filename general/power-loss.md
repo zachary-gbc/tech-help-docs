@@ -20,4 +20,10 @@ This should be done whenever there is a loss of power but most especially if the
 1. Turn on labeled breakers waiting 3 seconds between switching each one (# 2, 3, 6, 8, 9, 10, 11, 13, 16, 20, 21, 23, 25, 26, 27, 29, 30, 31, 33, 35, 37, 38, 39, 40, 41)
 1. If system is needed turn things back on as normal
 
-## Please Inform Zachary if any issues or problems noticed from the loss of power
+### Amp Room
+![Amp Room](../assets/images/general/power-loss-amp-room.png){:height="600px" width="200px"}
+
+### Breaker Box
+![Breaker Box](../assets/images/general/power-loss-breaker-box.png){:height="600px" width="200px"}
+
+## Please Inform Zachary of any issues noticed from the loss of power
