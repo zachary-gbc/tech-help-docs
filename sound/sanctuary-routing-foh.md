@@ -9,8 +9,8 @@ nav_order: 4
 
 | Source | Note |
 | --- | --- |
-| A1 | Crowd Left |
-| A2 | Crowd Right |
+| A1 | |
+| A2 | |
 | A3 | |
 | A4 | |
 | A5 | |
@@ -39,8 +39,8 @@ nav_order: 4
 | A28 | Overhead Left (default gain 20) |
 | A29 | Overhead Right (default gain 20) |
 | A30 | |
-| A31 | |
-| A32 | |
+| A31 | Crowd House Left (default gain 37.5) |
+| A32 | Crowd House Right (default gain 37.5) |
 | A33 | Keys Left (default gain 10) |
 | A34 | Keys Right (default gain 10) |
 | A35 | Pads Left (default gain 15) |

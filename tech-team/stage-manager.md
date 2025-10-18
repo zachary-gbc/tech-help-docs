@@ -13,8 +13,9 @@ Responsible for:
 - Providing cues to people who have parts in the service
 - Setting stage (chairs, podium, etc.) as needed
 - Ensuring service components (chairs, podium, microphones, tables, etc.) are put away after service as needed
-- Assisting tech team with other duties as needed
-- Attending Sunday morning rehearsal and both services
+- Assisting tech team as needed
+- Being on the lookout for issues that may arise during service
+- Attending Sunday morning rehearsal and all services
 
 Not Responsible for:
 - Setup work prior to service (scheduling, generating/obtaining slides, etc.)

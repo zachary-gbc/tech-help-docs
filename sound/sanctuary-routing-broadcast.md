@@ -9,8 +9,8 @@ nav_order: 5
 
 | Input Number | Source | Note |
 | --- | --- | --- |
-| 1 | A1 | Crowd Left |
-| 2 | A2 | Crowd Right |
+| 1 | A1 | |
+| 2 | A2 | |
 | 3 | A3 | |
 | 4 | A4 | |
 | 5 | A5 | |
@@ -39,8 +39,8 @@ nav_order: 5
 | 28 | A28 | Overhead Left |
 | 29 | A29 | Overhead Right |
 | 30 | A30 | |
-| 31 | A31 | |
-| 32 | A32 | |
+| 31 | A31 | Crowd House Left |
+| 32 | A32 | Crowd House Right |
 | 33 | A33 | Keys Left |
 | 34 | A34 | Keys Right |
 | 35 | A35 | Pads Left |
@@ -68,8 +68,8 @@ nav_order: 5
 | 57 | B7 | |
 | 58 | B8 | |
 | 59 | Mains Left | |
-| 60 | Mains Right | |
-| 61 | Subs Left | |
-| 62 | Subs Right | |
-| 63 | AUX 1 | iPad Left |
-| 64 | AUX 2 | iPad Right |
+| 60 | Subs Left | |
+| 61 | Sides Left | |
+| 62 | Sides Right | |
+| 63 | Stage Left | |
+| 64 | Extra | |

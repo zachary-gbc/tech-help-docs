@@ -2,7 +2,7 @@
 layout: default
 title: Renaming Restream
 parent: Video
-nav_order: 1
+nav_order: 2
 ---
 
 # Renaming Restream Process
@@ -24,9 +24,9 @@ Open the page by clicking here: [Restream Dashboard](https://app.restream.io/cha
 # Settings
 Once open click Update Titles near the top right of the page.
 
-Update the title for the upcoming service, the format should be "Groton Bible Chapel - Day". For example: "Groton Bible Chapel - January 1, 2025"
+Update the title for the upcoming service, the format should be "Groton Bible Chapel - Day". For example: "Groton Bible Chapel - January 1, 2026"
 
 Once updated click Update All and then they should all show the updated title.
 
 # Error Messages
-If you see a message that says Facebook or YouTube is not connected please find Zachary or Jonny.
+If you see a message that says Facebook or YouTube is not connected please find Zachary or Jonny. If it says it will disconnect soon let Zachary know but no action is needed at this time.
