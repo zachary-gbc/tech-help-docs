@@ -4,10 +4,8 @@ title: Midi Network
 parent: General
 ---
 
-# NOT CURRENTLY IN USE, TO BE CONFIGURED LATER
-{: .no_toc }
-
 # Midi Network
+Same channels/actions for Sanctuary and Youth Room
 {: .no_toc }
 
 ## Table of Contents
