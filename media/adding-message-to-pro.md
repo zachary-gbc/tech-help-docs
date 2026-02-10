@@ -23,7 +23,7 @@ This is for adding a new message for a service like Sunday morning or special se
 
 # Gathering Content:
 - If there are images, they should be placed within a folder for the current date (yyyy-mm-dd) within the Sanctuary_Service_Graphics folder
-  - For example, in Finder the folder would be /users/<username>/Sync/ProPresenter_Shared_Content/Sanctuary_Service_Graphics/2026-01-01
+  - For example, in Finder the folder would be /users/&lt;username&gt;/Sync/ProPresenter_Shared_Content/Sanctuary_Service_Graphics/2026-01-01
   - Usually images are gathered first but that is not required
   - Graphics added to this folder will automatically show up in the ProPresenter media bin
 
@@ -36,7 +36,7 @@ The first slide is typically for the timer and to reset certain settings. The sl
   - Set Stage Display to Live with Timer
   - Set Audience Look to Nothing to Lower Thirds
 - A Timer set to the correct time (using main timer and setting it to count down a certain amount or count down to a specific time, depending on the speaker’s preferences)
-- A slide label that says Timer Starts Here or <First/Second/Etc.> Service Timer (if different timers per service)
+- A slide label that says Timer Starts Here or &lt;First/Second/Etc.&gt; Service Timer (if different timers per service)
 
 The first few slides contains the series background with the audience look Nothing to Broadcast and then the background for the message.
 
