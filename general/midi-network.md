@@ -163,3 +163,13 @@ Same channels/actions for Sanctuary and Youth Room
 | 74 | X-Touch Record Button | On/Off |
 | 75 | X-Touch Stop Button | On/Off |
 | 76 | X-Touch Play Button | On/Off |
+
+# Channel 5 (Lighting Triggers)
+
+| Midi Note | Action | Type |
+| --- | --- |
+| 0 | | |
+| 1 | Sparrow Fader 1 | Range |
+| 2 | Sparrow Fader 2 | Range |
+| 3 | Sparrow Fader 3 | Range |
+| 4 | Sparrow Fader 4 | Range |
