@@ -9,26 +9,26 @@ nav_order: 4
 
 | Source | Note |
 | --- | --- |
-| A1 | |
-| A2 | |
-| A3 | |
-| A4 | |
-| A5 | |
-| A6 | |
-| A7 | |
-| A8 | |
-| A9 | |
-| A10 | |
-| A11 | |
-| A12 | |
-| A13 | |
-| A14 | |
-| A15 | |
-| A16 | |
-| A17 | |
-| A18 | |
-| A19 | |
-| A20 | |
+| A1 | Empty (Wire Used for Crowd Right) |
+| A2 | Stage Pocket Front Stage Left |
+| A3 | Stage Pocket Front Stage Left |
+| A4 | Stage Pocket Front Stage Left |
+| A5 | Stage Pocket Front Stage Left |
+| A6 | Stage Pocket Front Stage Center |
+| A7 | Stage Pocket Front Stage Center |
+| A8 | Stage Pocket Front Stage Center |
+| A9 | Stage Pocket Front Stage Center |
+| A10 | Stage Pocket Front Stage Center |
+| A11 | Stage Pocket Front Stage Right |
+| A12 | Stage Pocket Front Stage Right |
+| A13 | Stage Pocket Front Stage Right |
+| A14 | Stage Pocket Front Stage Right |
+| A15 | Empty (Wire Used for Crowd Left) |
+| A16 | Stage Pocket Back Stage Left |
+| A17 | Stage Pocket Back Stage Left |
+| A18 | Stage Pocket Back Stage Left |
+| A19 | Stage Pocket Back Stage Right |
+| A20 | Stage Pocket Back Stage Right |
 | A21 | Bass (default gain 7.5) |
 | A22 | Drummer Mic |
 | A23 | Kick (default gain 17.5) |
@@ -39,42 +39,38 @@ nav_order: 4
 | A28 | Overhead Left (default gain 20) |
 | A29 | Overhead Right (default gain 20) |
 | A30 | |
-| A31 | Crowd House Left (default gain 37.5) |
-| A32 | Crowd House Right (default gain 37.5) |
-| A33 | Keys Left (default gain 10) |
-| A34 | Keys Right (default gain 10) |
-| A35 | Pads Left (default gain 15) |
-| A36 | Pads Right (default gain 15) |
-| A37 | Handheld Purple (default gain 12.5) |
-| A38 | Handheld Red (default gain 20) |
-| A39 | Handheld Yellow (default gain 17.5) |
-| A40 | Headset 1 (default gain 7.5) |
-| A41 | |
-| A42 | |
-| A43 | |
-| A44 | |
+| A31 | Roland Left |
+| A32 | Roland Right |
+| A33 | In Drum Enclosure |
+| A34 | In Drum Enclosure |
+| A35 | Keys Left (default gain 15) |
+| A36 | Keys Right (default gain 15) |
+| A37 | Pads Left (default gain 15) |
+| A38 | Pads Right (default gain 15) |
+| A39 | Crowd House Left (default gain 37.5) |
+| A40 | Crowd House Right (default gain 37.5) |
+| A41 | Handheld Purple (default gain 15) |
+| A42 | Handheld Red (default gain 20) |
+| A43 | Handheld Yellow (default gain 17.5) |
+| A44 | Headset 1 (default gain 10) |
 | A45 | |
 | A46 | |
 | A47 | |
 | A48 | |
 | | |
-| B1 | Handheld Blue (default gain 25-30) |
-| B2 | Handheld Green (default gain 25-30) |
-| B3 | Handheld Orange (default gain 25-30) |
-| B4 | Handheld White (default gain 25-30) |
-| B5 | |
-| B6 | |
-| B7 | |
-| B8 | |
+| B1 | Handheld Blue (default gain 23-30) |
+| B2 | Handheld Green (default gain 23-30) |
+| B3 | Handheld Orange (default gain 23-30) |
+| B4 | Handheld White (default gain 23-30) |
 | | |
-| Wing Local 1 | Talkback |
+| Wing Local 1 | Talkback (default gain 40) |
 | Wing Local 2 | |
 | Wing Local 3 | iMac Left (default gain 0) |
 | Wing Local 4 | iMac Right (default gain 0) |
 | Wing Local 5 | |
 | Wing Local 6 | |
-| Wing Local 7 | |
-| Wing Local 8 | |
+| Wing Local 7 | Reference Mic FOH (default gain 40) |
+| Wing Local 8 | Reference Mic Wireless (default gain 40) |
 | | |
 | USB 1 | Click |
 | USB 2 | Guide |
