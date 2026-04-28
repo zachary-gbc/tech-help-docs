@@ -18,6 +18,7 @@ This is for adding a new message theme to be used in a service like Sunday morni
 # Pre-Notes and Assumptions:
 - This assumes that the theme will follow the typical format of our messages and only includes instructions for the main slide types
 - Artistic design of the theme slides will be needed to make them look good, but some overall snags and common pitfalls are explained here to help avoid them
+- All fonts must be in the font book as a local font. They cannot be Adobe fonts as those will get replaced with default fonts when syncronization happens
 
 # Creating the Theme
 The first few steps are critical to be done in a specific order and before the syncronization script runs (otherwise you may have multiple themes)
