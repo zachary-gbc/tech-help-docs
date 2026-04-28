@@ -22,15 +22,11 @@ nav_order: 6
 | | ... | |
 | 21 | Loop 1 Step 1 | |
 | 22 | Loop 1 Step 2 | |
-| 23 | Loop 1 Step 3 | |
-| 24 | Loop 1 Step 4 | |
 | | ... | |
 | 31 | Loop 2 Step 1 | |
 | 32 | Loop 2 Step 2 | |
-| 33 | Loop 2 Step 3 | |
-| 34 | Loop 2 Step 4 | |
 | | ... | |
 | 41 | Loop 3 Step 1 | |
 | 42 | Loop 3 Step 2 | |
-| 43 | Loop 3 Step 3 | |
-| 44 | Loop 3 Step 4 | |
+| | ... | |
+| 100 | Sleep Position | |
