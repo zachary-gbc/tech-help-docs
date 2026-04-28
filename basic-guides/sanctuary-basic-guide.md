@@ -61,24 +61,25 @@ See Picture Below
 # Lights
 ## Open Program & Load Show
 
-1. On lighting computer open MyDMX (gray ADJ icon on dock)
-1. Click File > Open
-1. Click Desktop on left and open “Default”
-1. On Left click Show
-1. Click House and Stage to turn those lights on
-1. Plug in house lights
-   - Wire to right of light computer plug into ADJ box
+1. Turn on lighting computer (button by key to turn system on) and log in
+1. Open Default.lightkeyproj on Desktop
+   - If needed, click Live on the top of the bottom box so the screen looks like the picture below
+1. To use the lighting board (X-Touch), turn it on using button on back right
+   - The A light on the bottom right of the board above "LAYER" should turn orange when the board is on, if B is orange, press A
+1. On wall, flip switch from "WALL" to "COMPUTER"
+   - Flip back to "WALL" when finished
 
 <div style="break-after:page"></div>
 ## Running Lights
-1. Use faders as needed during service
-   - Master controls all lights
-   - House for the house lights
-   - Stage for lights on stage
-1. There may be other buttons on this page to control various stage or effect lights
-   - Test before service to determine what you will need/want
 
-![MyDMX Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/lights-1.jpeg){:height="400px" width="400px"}
+1. On left side of screen is a fader for the master, house, and front lights
+1. Click on the button to right of faders (speaker, full stage, or with drums and keys) then pull up faders or use lighting board to turn lights on and off
+1. Labels below fader on board show which ones are house and speaker, also the far right fader is the master
+1. Test before service to determine what you will need/want
+
+## Make sure you do not make any changes to the file, default file is reset upon reboot
+
+![Lightkey Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/lights-1.png){:height="500px" width="500px"}
 
 <div style="break-after:page"></div>
 # Video
