@@ -23,8 +23,8 @@ Same channels/actions for Sanctuary and Youth Room
 | 3 | Lighting X-Touch Page 1 |
 | 4 | Lighting X-Touch Page 2 |
 | 5 | Lighting Triggers |
-| 6 | Keyboard |
-| 7 | Guitars |
+| 6 | |
+| 7 | |
 | 8 | |
 | 9 | |
 | 10 | |
@@ -97,6 +97,7 @@ Same channels/actions for Sanctuary and Youth Room
 | 30 | Master Fader |
 
 # Channel 3 (page 1) & 4 (page 2) (Lighting X-Touch)
+## Future Configuration, Not Currently In Use!
 
 | Midi Note | Action | Type |
 | --- | --- |
@@ -163,13 +164,14 @@ Same channels/actions for Sanctuary and Youth Room
 | 74 | X-Touch Record Button | On/Off |
 | 75 | X-Touch Stop Button | On/Off |
 | 76 | X-Touch Play Button | On/Off |
+| 101 | Sparrow Fader 1 | Range |
+| 102 | Sparrow Fader 2 | Range |
+| 103 | Sparrow Fader 3 | Range |
+| 104 | Sparrow Fader 4 | Range |
 
 # Channel 5 (Lighting Triggers)
+## Future Configuration, Not Currently In Use!
 
 | Midi Note | Action | Type |
 | --- | --- |
 | 0 | | |
-| 1 | Sparrow Fader 1 | Range |
-| 2 | Sparrow Fader 2 | Range |
-| 3 | Sparrow Fader 3 | Range |
-| 4 | Sparrow Fader 4 | Range |
