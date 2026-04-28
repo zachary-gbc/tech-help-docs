@@ -79,7 +79,7 @@ See Picture Below
 
 ## Make sure you do not make any changes to the file, default file is reset upon reboot
 
-![Lightkey Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/lights-1.png){:height="500px" width="500px"}
+![Lightkey Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/lights-1.png){:height="800px" width="800px"}
 
 <div style="break-after:page"></div>
 # Video
