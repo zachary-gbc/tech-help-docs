@@ -12,7 +12,7 @@ nav_order: 4
 1. Click on the video to be trimmed
 1. Click Editor on left side
 1. Click Trim & Cut on top
-1. Drag blue play head at beginning to beginning of sermon
+1. Drag blue play head at beginning to beginning of message
   - If there is a special like baptism or child dedication include that in the video as well
   - Use the zoom on the right to get the play head exactly where you want
 1. Drag the blue play head at the end to the end of the sermon
