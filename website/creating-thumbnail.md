@@ -2,7 +2,7 @@
 layout: default
 title: Creating Message Thumbnail
 parent: Website
-nav_order: 2
+nav_order: 3
 ---
 
 # Creating Message Thumbnail

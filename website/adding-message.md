@@ -2,7 +2,7 @@
 layout: default
 title: Adding Message to Website
 parent: Website
-nav_order: 1
+nav_order: 2
 ---
 
 # Adding Message to Website
