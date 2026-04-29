@@ -82,6 +82,14 @@ This section is for the more advanced topics.
   {% endif %}
 {% endfor %}
 </ul>
+#### Website
+<ul>
+{% for page in sorted_pages %}
+  {% if page.parent == 'Website' %}
+    <li><a href="/tech-help-docs/{{ page.url }}">{{ page.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
 
 ## Issues/Questions
 If you have any issues and/or questions please reach out to Zachary for assistance.
