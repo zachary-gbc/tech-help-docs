@@ -46,8 +46,8 @@ Because only the message audio is added to the website, any longer services (bap
 1. Under YouTube Video click the plus button and choose Audio
 1. Under Embed tab:
   - Upload audio that was created above
-  - For Title use format: <reference> | Sermon Series: <sermon series>
+  - For Title use format: \<reference\> | Sermon Series: \<sermon series\>
     - Example: Genesis 1 \| Sermon Series: Starting with the Beginning
-  - For Author / Artist use format: <speaker> - Groton Bible Chapel
+  - For Author / Artist use format: \<speaker\> - Groton Bible Chapel
     - Example: Gary Campbell Jr. - Groton Bible Chapel
 1. Under Design Tab check box to Show Download Link
