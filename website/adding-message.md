@@ -11,8 +11,8 @@ View prior messages to see format and get examples
 1. Open Squarespace
 1. Navigate to Semon blog (in Sermons Folder)
 1. Click + to add a new sermon
-1. Add message title
-1. Press + below title and choose video
+1. Add message title (usually copied from sermon outline)
+1. Press blue + below title and choose video
   - If making before Sunday leave video blank and will be added once stream has been updated on YouTube
 1. Press + below video and choose button
   - Choose “file” and upload sermon outline pdf and set button text to Sermon Outline
