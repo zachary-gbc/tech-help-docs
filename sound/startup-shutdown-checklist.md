@@ -18,7 +18,7 @@ nav_order: 1
 # Broadcast Sound Startup Checklist
 - [ ] Turn computer on and log in
 - [ ] Open Logic and load file if it already exists (check recent) or create new file (see instructions [here](broadcast-setup.html))
-- [ ] Setup soundboard per instuctions [here](broadcast-setup.html)
+- [ ] On streamdeck Sound page, press M32 Load Band (only do this before practice)
 - [ ] Insure signal is coming from the FOH console
 - [ ] Check mouse and keyboard battery life
 
