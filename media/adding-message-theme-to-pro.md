@@ -57,5 +57,5 @@ This slide will be used to show the ouline or list of points on the LED wall. Th
 
 ## Updating Looks
 Click Screens in the menu and Edit Looks. The following looks need to be edited:
-- Speaker-Points: Change Video Wall & Side TVs Presentation Alternate Theme to Points Wall
-- Speaker-Outline: Change Video Wall & Side TVs Presentation Alternate Theme to Outline Wall
+- Speaker-Points: Change Video Wall & Side TVs Presentation Alternate Theme to Points Wall within the current series theme
+- Speaker-Outline: Change Video Wall & Side TVs Presentation Alternate Theme to Outline Wall within the current series theme
