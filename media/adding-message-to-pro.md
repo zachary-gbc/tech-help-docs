@@ -75,7 +75,7 @@ To make a list build out, make the full list slide, then duplicate it as many ti
 ## Adding an Image
 Go to the show view to add images. Drag them from the media bin into the presentation and then right click and convert the media to a slide element. All images can be done at once by selecting them all and then right click and choose convert to slide elements.
 
-Switch to the edit view and if the image does not fill the screen it can be enlarged to fill the screen or a black box can be added behind the image to block out the background and show the image on the screen. Do this by adding a square shape, expand it to fill the entire screen, set the color to black, and then on the bottom left move the box down so the image is above it.
+Switch to the edit view and if the image does not fill the screen it can be enlarged to fill the screen or a black box can be added behind the image to block out the background and show the image on the screen. Do this by adding a square shape, expand it to fill the entire screen, set the color to black (on right side in shape section), and then on the bottom left, under objects, move the box down so the image is above it.
 
 # Audience Looks
 Once all slides are added, switch to the show view. Select all the point slides (hold command to select multiple slides) and then right click on one, choose Add Action > Audience Look > Speaker-Points. Then choose all the verses/quotes and add the audience look Speaker-Scripture/Quote. For the outline slides choose Speaker-Outline. For all the images add the Nothing to Broadcast audience look and also add a label “Nothing to Broadcast” in red (it is a saved label).
