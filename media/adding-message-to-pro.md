@@ -15,6 +15,8 @@ This is for adding a new message for a service like Sunday morning or special se
 1. TOC
 {:toc}
 
+<div style="break-after:page"></div>
+
 # Pre-Notes and Assumptions:
 - This assumes that the message will use a theme already created, see separate instructions for creating a theme in Pro7
 - Some messages are in Sermonary, some in PPT, some as word documents, but all go into Pro7 the same way
@@ -28,6 +30,7 @@ This is for adding a new message for a service like Sunday morning or special se
   - Usually images are gathered first but that is not required
   - Graphics added to this folder will automatically show up in the ProPresenter media bin
 
+<div style="break-after:page"></div>
 # Starting the Presentation
 One of the easiest ways to start a presentation is to duplicate the one from the previous week and then rename it. Presentations are named by date of message (yyyy-mm-dd) and then speaker name, for example 2026-01-01-Zak. This keeps them in order but also tells you who the speaker is. Messages should be placed in the correct library for the year of the message.
 
@@ -44,6 +47,7 @@ The second slide is typically for the timer and to reset certain settings. The s
 
 The next few slides contain the series banner and background for the message with the audience look Nothing to Broadcast.
 
+<div style="break-after:page"></div>
 # Building the Presentation
 If the presentation was duplicated it is recommended to delete all the slides after the first couple. This way you can ensure that all the slides have the correct formatting. It is usually easier to make edits using the Edit screen rather than in Show or Reflow because then you can make box and text size adjustments as needed (see below).
 
@@ -73,6 +77,7 @@ Go to the show view to add images. Drag them from the media bin into the present
 
 Switch to the edit view and if the image does not fill the screen it can be enlarged to fill the screen or a black box can be added behind the image to block out the background and show the image on the screen. Do this by adding a square shape, expand it to fill the entire screen, set the color to black, and then on the bottom left move the box down so the image is above it.
 
+<div style="break-after:page"></div>
 # Audience Looks
 Once all slides are added, switch to the show view. Select all the point slides (hold command to select multiple slides) and then right click on one, choose Add Action > Audience Look > Speaker-Points. Then choose all the verses/quotes and add the audience look Speaker-Scripture/Quote. For the outline slides choose Speaker-Outline. For all the images add the Nothing to Broadcast audience look and also add a label “Nothing to Broadcast” in red (it is a saved label).
 
