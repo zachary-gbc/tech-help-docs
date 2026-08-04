@@ -19,11 +19,11 @@ nav_order: 8
 1. Press the On/Off button (see #2)
    - Ensure you press to turn speakers off when you are done
 
-# Turning Mic On/Off
+# Using Microphone
 1. Open the lid of the wooden box (see #3)
 1. Flip the power switch on the top of the black box (see #4)
    - Ensure you flip the switch to off when you are done
-1. Press putton labeled "Battery Latch" on black box to pop out microphone battery (see #5)
+1. Press button labeled "Battery Latch" on black box to pop out microphone battery (see #5)
 1. Insert battery into microphone by unscrewing base of microphone and inserting battery
     - Battery only goes in one way, don't force it
     - When screwing the base back onto microphone don't overtighten
