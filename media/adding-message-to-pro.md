@@ -34,9 +34,7 @@ This is for adding a new message for a service like Sunday morning or special se
 # Starting the Presentation
 One of the easiest ways to start a presentation is to duplicate the one from the previous week and then rename it. Presentations are named by date of message (yyyy-mm-dd) and then speaker name, for example 2026-01-01-Zak. This keeps them in order but also tells you who the speaker is. Messages should be placed in the correct library for the year of the message.
 
-The first slide is for starting Wordly translation service.
-
-The second slide is typically for the timer and to reset certain settings. The slide should have the following components:
+The first slide is for starting Wordly translation service and resetting some things and starting the timer. It has the following components. These components are added/edited in the Show screen, not in Edit.
 - Macro called Speaker Start which includes the following items:
   - Clear All
   - Set Stage Display to Live with Timer
@@ -70,7 +68,7 @@ Once all are done, add a blank slide so the operator can know when they are at t
 ## Adding an Outline Slide
 Choose Outline LT slide to add an outline slide using the current theme, then add in the content and heading to the text boxes. Pull the right side of the text box with the content until the box is the width of the largest item in the list. Then pull the heading textbox to match the content textbox, if needed.
 
-To make a list build out, make the full list slide, then duplicate it as many times as needed and remove the lower items so the first slide only has the first item, then the second slide has the first and second, etc. until the last slide has all the items in the list.
+To make a list build out, make the full list slide, then duplicate it as many times as needed and remove the lower items so the first slide only has the first item, then the second slide has the first and second, etc. until the last slide has all the items in the list. Sometimes if the box background doesn't expand when removing the text you can choose the ones you want to remove and set their font color to transparent by selecting the text and then choosing font color on the side Text section and choosing transparent.
 
 ## Adding an Image
 Go to the show view to add images. Drag them from the media bin into the presentation and then right click and convert the media to a slide element. All images can be done at once by selecting them all and then right click and choose convert to slide elements.
