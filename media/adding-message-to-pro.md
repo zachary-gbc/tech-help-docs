@@ -30,6 +30,9 @@ This is for adding a new message for a service like Sunday morning or special se
   - Usually images are gathered first but that is not required
   - Graphics added to this folder will automatically show up in the ProPresenter media bin
 
+# Things to Remember
+You are taking their content and making slides from them. That means that you might need to ignore formatting, extra spaces, and maybe even some wording to make the slides work. If there is a very long point, might need to work with the speaker to shorten it.
+
 <div style="break-after:page"></div>
 # Starting the Presentation
 One of the easiest ways to start a presentation is to duplicate the one from the previous week and then rename it. Presentations are named by date of message (yyyy-mm-dd) and then speaker name, for example 2026-01-01-Zak. This keeps them in order but also tells you who the speaker is. Messages should be placed in the correct library for the year of the message.
@@ -84,4 +87,4 @@ Click through all slides and test them to make sure they appear as they should o
 # Speaker Review
 After finishing the presentation it should be reviewed with the speaker. That may be done in person if they are available or the presentation can be printed to PDF and sent to them.
 
-To print the presentation to PDF click the presentation name in the library, then choose File > Print. Choose two columns, no notes, and then on the bottom left chose PDF and save the file and send it to the speaker for them to review and ensure nothing was missed or incorrect.
+To send the presentation to the speaker, print it to PDF and then send it. To print to PDF, click the presentation name in the library, then choose File > Print. Choose two columns, no notes, and then on the bottom left click PDF and save the file (check where you save it, typically just to the desktop) and send it to the speaker for them to review and ensure nothing was missed or incorrect. If you needed to make any modifications or had anything for them to specifically check on include that in the message to them.
