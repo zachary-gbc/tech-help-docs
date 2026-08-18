@@ -49,9 +49,9 @@ nav_order: 5
 | 38 | A38 | Keys Right |
 | 39 | A39 | Pads Left |
 | 40 | A40 | Pads Right |
-| 41 | A41 | Handheld Purple |
-| 42 | A42 | Handheld Red |
-| 43 | A43 | Handheld Yellow |
+| 41 | A41 | Handheld Blue |
+| 42 | A42 | Handheld Green |
+| 43 | A43 | Handheld Orange |
 | 44 | A44 | Headset 1 |
 | 45 | USB 1 | Click |
 | 46 | USB 2 | Guide |
@@ -63,9 +63,9 @@ nav_order: 5
 | 52 | USB 8 | Backtrack Extra #8 |
 | 53 | Wing Local 3 | Mac Left |
 | 54 | Wing Local 4 | Mac Right |
-| 55 | B1 | Handheld Green |
-| 56 | B2 | Handheld Orange |
-| 57 | B3 | Handheld Red |
+| 55 | B1 | Handheld Purple |
+| 56 | B2 | Handheld Red |
+| 57 | B3 | Handheld Yellow |
 | 58 | B4 | Handheld White |
 | 59 | Mains Left | |
 | 60 | Subs Left | |

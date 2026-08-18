@@ -49,19 +49,19 @@ nav_order: 4
 | A38 | Pads Right (default gain 15) |
 | A39 | Crowd House Left (default gain 37.5) |
 | A40 | Crowd House Right (default gain 37.5) |
-| A41 | Handheld Purple (default gain 15) |
-| A42 | Handheld Red (default gain 20) |
-| A43 | Handheld Yellow (default gain 17.5) |
+| A41 | Handheld Blue (default gain 25) |
+| A42 | Handheld Green (default gain 25) |
+| A43 | Handheld Orange (default gain 25) |
 | A44 | Headset 1 (default gain 10) |
 | A45 | |
 | A46 | |
 | A47 | |
 | A48 | |
 | | |
-| B1 | Handheld Blue (default gain 23-30) |
-| B2 | Handheld Green (default gain 23-30) |
-| B3 | Handheld Orange (default gain 23-30) |
-| B4 | Handheld White (default gain 23-30) |
+| B1 | Handheld Purple (default gain 25) |
+| B2 | Handheld Red (default gain 25) |
+| B3 | Handheld Yellow (default gain 25) |
+| B4 | Handheld White (default gain 25) |
 | | |
 | Wing Local 1 | Talkback (default gain 40) |
 | Wing Local 2 | |
