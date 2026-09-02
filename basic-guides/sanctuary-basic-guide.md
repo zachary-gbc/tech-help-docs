@@ -116,15 +116,13 @@ See Picture Below
 ## Soundboard Setup
 See picture below for video booth soundboard setup
 
-1. On Midas broadcast board press View in Show Control section (#1 in picture)
-1. Use Right Arrow to go to Scenes tab
-1. Use Left Knob to scroll down to Mains (#02) (#2 in picture)
-1. Press Left Knob to load
-1. Press Right Arrow to confirm (#3 in picture)
+1. On streamdeck, press the left center button until you are at the home screen (see picture below)
+1. Press the Sound button
+1. Press the M32 Load Default button on the bottom row
 1. Set far left faders to max (1&2 are linked to pulling one up will pull up both)
 1. Use master faders to set volume (should be around -10 on the multiview)
 
-![Recording Sound Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/sound-2.png){:height="600px" width="500px"}
+![Recording Sound Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/streamdeck-home.png){:height="200px" width="300px"}
 
 <div style="break-after:page"></div>
 ## Video Recording
