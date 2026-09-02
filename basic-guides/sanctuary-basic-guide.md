@@ -109,7 +109,7 @@ See Picture Below
 1. Press the 3 in the Camera group (see picture below)
 1. Use the joystick to position the camera and the zoom on the left to zoom in and out
 
-![Video PTZ Controller](/tech-help-docs/assets/images/basic-guides/worship-center/video-4.png){:height="500px" width="500px"}
+![Video PTZ Controller](/tech-help-docs/assets/images/basic-guides/worship-center/video-4.png){:height="200px" width="600px"}
 
 <div style="break-after:page"></div>
 # Recording or In House Streaming
