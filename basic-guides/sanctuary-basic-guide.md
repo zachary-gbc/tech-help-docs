@@ -86,13 +86,13 @@ See Picture Below
 **Turn on camera next to sound booth before setting up below**
 
 ## Setting Up Camera System
-1. Turn on Man-Cam (Cam 3)
 1. Log into recording computer
 1. It will start OBS and ATEM automatically
 1. Click on ATEM (program on bottom)
-1. Click File > Restore (Make sure Man-Cam/Cam3 is on before restoring settings)
-1. Choose No Wireless
+1. Click File > Restore
+1. Choose Default
 1. Click open, then restore again on the next window that pops up (see pictures below)
+1. On the streamdeck press PTZ ON to turn PTZs on (it takes about 20 seconds for them to turn on)
 
 ![Video Restore 1](/tech-help-docs/assets/images/basic-guides/worship-center/video-1.png){:height="400px" width="400px"}
 ![Video Restore 2](/tech-help-docs/assets/images/basic-guides/worship-center/video-2.png){:height="400px" width="400px"}
@@ -105,8 +105,11 @@ See Picture Below
 ![Video Director Controller](/tech-help-docs/assets/images/basic-guides/worship-center/video-3.png){:height="500px" width="500px"}
 
 ## Setting Camera
-1. Aim camera (next to sound booth) at stage (or wherever teaching is happening)
-1. Use zoom/focus as needed to get good shot
+1. Turn on the PTZ controller if not already on
+1. Press the 3 in the Camera group (see picture below)
+1. Use the joystick to position the camera and the zoom on the left to zoom in and out
+
+![Video PTZ Controller](/tech-help-docs/assets/images/basic-guides/worship-center/video-4.png){:height="500px" width="500px"}
 
 <div style="break-after:page"></div>
 # Recording or In House Streaming
