@@ -83,7 +83,6 @@ See Picture Below
 
 <div style="break-after:page"></div>
 # Video
-**Turn on camera next to sound booth before setting up below**
 
 ## Setting Up Camera System
 1. Log into recording computer
@@ -100,7 +99,9 @@ See Picture Below
 ## Choosing a Camera
 1. Press 3rd button on middle row of director controller (see picture below)
    - The one below number 3
-1. Click “DSK 1 CUT” on right side of controller if not already Red
+1. For a wide shot showing the LED wall as well as the speaker (such as for a verse or something on the screen to be shown on video) press the button under label "wide"
+    - You can press the second row to make it on preview window and then press the cut button to switch between preview and live
+1. Press “DSK 1 CUT” on right side of controller if Red, if not Red don't press button
 
 ![Video Director Controller](/tech-help-docs/assets/images/basic-guides/worship-center/video-3.png){:height="500px" width="500px"}
 
@@ -108,6 +109,7 @@ See Picture Below
 1. Turn on the PTZ controller if not already on
 1. Press the 3 in the Camera group (see picture below)
 1. Use the joystick to position the camera and the zoom on the left to zoom in and out
+    - If camera is moving too fast, set zoom speed to 2 using F2 dial and PT Speed to 2 using F4 dial
 
 ![Video PTZ Controller](/tech-help-docs/assets/images/basic-guides/worship-center/video-4.png){:height="200px" width="600px"}
 
