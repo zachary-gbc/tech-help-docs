@@ -19,8 +19,8 @@ nav_order: 4
 | 10 | Commons 2 |
 | 11 | Commons 3 |
 | 12 | Commons 4 |
-| 13 | Stage Display |
-| 14 | Unused |
+| 13 | Wide |
+| 14 | Media Mirror |
 | 15 | Wireless 1 |
 | 16 | Wireless 2 |
 | 17 | Unused |
