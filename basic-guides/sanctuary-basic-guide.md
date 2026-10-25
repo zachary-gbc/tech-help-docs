@@ -16,22 +16,23 @@ This page is meant to help as a reminder to basic startup, setup, and running of
 {:toc}
 
 <div style="break-after:page"></div>
+
 # Turning Things On
 
 - Sequence Up (turn the key under the soundboard 180°)
 - This is needed for running anything (sound, media, lights, video) and will turn everything on
 
 <div style="break-after:page"></div>
+
 # Media
 ### Opening Program
-
 1. Open ProPresenter (orange icon on dock)
 1. On left of screen find playlist you need
    - WC-Other expanded in picture to show contents
 
 ![Media Playlist](/tech-help-docs/assets/images/basic-guides/worship-center/media-1.png){:height="400px" width="400px"}
 
-### Running Media
+## Running Media
 1. Click on Item below playlist to load to center section
 1. Click on slide in center section to display on screen
 1. On the right you will see what is being displayed on the screens
@@ -41,10 +42,10 @@ This page is meant to help as a reminder to basic startup, setup, and running of
 ![Media Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/media-2.png){:height="600px" width="600px"}
 
 <div style="break-after:page"></div>
+
 # Sound
 ## Load Default
 See Picture Below
-
 1. On Wing (in sound booth) press Library (#1 in picture)
 1. Ensure SNAP tab is active (tap if not yellow see #2 in picture)
 1. On Left scroll to top if needed
@@ -58,9 +59,9 @@ See Picture Below
 ![Wing Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/sound-1.png){:height="500px" width="500px"}
 
 <div style="break-after:page"></div>
+
 # Lights
 ## Open Program & Load Show
-
 1. Turn on lighting computer (button by key to turn system on) and log in
 1. Open Default.lightkeyproj on Desktop
    - If needed, click Live on the top of the bottom box so the screen looks like the picture below
@@ -69,32 +70,28 @@ See Picture Below
 1. On wall, flip switch from "WALL" to "COMPUTER"
    - Flip back to "WALL" when finished
 
-<div style="break-after:page"></div>
 ## Running Lights
-
 1. On left side of screen is a fader for the master, house, and front lights
 1. Click on the button to right of faders (speaker, full stage, or with drums and keys) then pull up faders or use lighting board to turn lights on and off
 1. Labels below fader on board show which ones are house and speaker, also the far right fader is the master
 1. Test before service to determine what you will need/want
 
-## Do not make any changes to the file, default file is reset upon reboot
+## Do not save any changes to the file, default file is reset upon reboot
 
 ![Lightkey Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/lights-1.png){:height="800px" width="800px"}
 
 <div style="break-after:page"></div>
-# Video
 
-## Setting Up Camera System
+# Recording or In House Streaming
+# Video
+## Setting Up Computer for Recording
 1. Log into recording computer
 1. It will start OBS and ATEM automatically
-1. Click on ATEM (program on bottom)
-1. Click File > Restore
-1. Choose Default
-1. Click open, then restore again on the next window that pops up (see pictures below)
-1. On the streamdeck press PTZ ON to turn PTZs on (it takes about 20 seconds for them to turn on)
 
-![Video Restore 1](/tech-help-docs/assets/images/basic-guides/worship-center/video-1.png){:height="400px" width="400px"}
-![Video Restore 2](/tech-help-docs/assets/images/basic-guides/worship-center/video-2.png){:height="400px" width="400px"}
+## The streamdeck has a button when once pressed will do most of the setup
+1. Press the bottom right button labeled: "Basic Recording"
+    - This will turn on the cameras, setup the atem presets, and setup the soundboard for recording
+    - If the video page is not shown, press the top left button until you reach the home and then press "Video"
 
 ## Choosing a Camera
 1. Press 3rd button on middle row of director controller (see picture below)
@@ -102,6 +99,7 @@ See Picture Below
 1. For a wide shot showing the LED wall as well as the speaker (such as for a verse or something on the screen to be shown on video) press the button under label "wide"
     - You can press the second row to make it on preview window and then press the cut button to switch between preview and live
 1. Press “DSK 1 CUT” on right side of controller if Red, if not Red don't press button
+    - It should not be red if Basic Recording button was pressed (see above)
 
 ![Video Director Controller](/tech-help-docs/assets/images/basic-guides/worship-center/video-3.png){:height="500px" width="500px"}
 
@@ -114,23 +112,19 @@ See Picture Below
 ![Video PTZ Controller](/tech-help-docs/assets/images/basic-guides/worship-center/video-4.png){:height="200px" width="600px"}
 
 <div style="break-after:page"></div>
-# Recording or In House Streaming
-## Soundboard Setup
-See picture below for video booth soundboard setup
 
-1. On streamdeck, press the left center button until you are at the home screen (see picture below)
-1. Press the Sound button
-1. Press the M32 Load Default button on the bottom row
+# Soundboard Setup
 1. Set far left faders to max (1&2 are linked to pulling one up will pull up both)
 1. Use master faders to set volume (should be around -10 on the multiview)
 
 ![Recording Sound Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/streamdeck-home.png){:height="200px" width="300px"}
 
-<div style="break-after:page"></div>
-## Video Recording
-1. Prior to the start of the service click the record button on the bottom right of the OBS window (it should turn blue)
+# Video Recording
+1. When desired, click the record button on the bottom right of the OBS window (it should turn blue)
    - Do Not Click Stream
 1. Make sure that the video on the computer screen is correct
    - Click Stop Recording to stop the recording
+1. Once done, recording will be saved in Movies folder (should be on left sidebar in finder) under the current date and time
+    - Choose the .mp4, not the .mkv file
 
 ![OBS Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/recording-1.png){:height="800px" width="800px"}
