@@ -93,6 +93,8 @@ See Picture Below
     - This will turn on the cameras, setup the atem presets, and setup the soundboard for recording
     - If the video page is not shown, press the top left button until you reach the home and then press "Video"
 
+![Recording Sound Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/streamdeck-video.png){:height="200px" width="300px"}
+
 ## Choosing a Camera
 1. Press 3rd button on middle row of director controller (see picture below)
    - The one below number 3
@@ -116,8 +118,6 @@ See Picture Below
 # Soundboard Setup
 1. Set far left faders to max (1&2 are linked to pulling one up will pull up both)
 1. Use master faders to set volume (should be around -10 on the multiview)
-
-![Recording Sound Screenshot](/tech-help-docs/assets/images/basic-guides/worship-center/streamdeck-home.png){:height="200px" width="300px"}
 
 # Video Recording
 1. When desired, click the record button on the bottom right of the OBS window (it should turn blue)
