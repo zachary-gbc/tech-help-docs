@@ -65,12 +65,12 @@ nav_order: 4
 | | |
 | Wing Local 1 | Talkback (default gain 40) |
 | Wing Local 2 | |
-| Wing Local 3 | iMac Left (default gain 0) |
-| Wing Local 4 | iMac Right (default gain 0) |
+| Wing Local 3 | |
+| Wing Local 4 | |
 | Wing Local 5 | |
 | Wing Local 6 | |
-| Wing Local 7 | Reference Mic FOH (default gain 40) |
-| Wing Local 8 | Reference Mic Wireless (default gain 40) |
+| Wing Local 7 | Reference Mic FOH (default gain 25) |
+| Wing Local 8 | Reference Mic Wireless (default gain 25) |
 | | |
 | USB 1 | Click |
 | USB 2 | Guide |
@@ -83,3 +83,5 @@ nav_order: 4
 | | |
 | AUX 1 | iPad Left (default trim 0) |
 | AUX 2 | iPad Right (default trim 0) |
+| AUX 3 | Mac Left (default trim 0) |
+| AUX 4 | Mac Right (default trim 0) |

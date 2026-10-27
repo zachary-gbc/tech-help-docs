@@ -61,8 +61,8 @@ nav_order: 5
 | 50 | USB 6 | Backtrack Extra #6 |
 | 51 | USB 7 | Backtrack Extra #7 |
 | 52 | USB 8 | Backtrack Extra #8 |
-| 53 | Wing Local 3 | Mac Left |
-| 54 | Wing Local 4 | Mac Right |
+| 53 | Wing Aux 3 | Mac Left |
+| 54 | Wing Aux 4 | Mac Right |
 | 55 | B1 | Handheld Purple |
 | 56 | B2 | Handheld Red |
 | 57 | B3 | Handheld Yellow |
