@@ -9,4 +9,4 @@ This only applies to the Mac Minis that are in the video booth. This includes th
 
 Here is a short video that shows how to press the button, the tool used in the video is stored behind the computer in the rack, you can access it from the side of the rack.
 
-![Mac Mini Power Button](/tech-help-docs/assets/images/troubleshooting/mac-mini-power.mp4){:height="400px" width="300px"}
+![Mac Mini Power Button](/tech-help-docs/assets/images/troubleshooting/mac-mini-power.mp4){:height="800px" width="800px"}
